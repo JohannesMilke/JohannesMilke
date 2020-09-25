@@ -4,10 +4,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=JohannesMilke&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke)
 [![GitHub followers](https://img.shields.io/github/followers/JohannesMilke?logo=GitHub&style=for-the-badge)][github]
 
-- 🔭  I’m currently working on [Youtube][youtube]!
-- 🌱  I’m currently learning Flutter ❤️
-- 👯  I’m looking to collaborate with other content creators
-- ⚡  Fun fact: I love reading & podcasts
+- 🔭 &ensp;I’m currently working on [Youtube][youtube]!
+- 🌱 &ensp;I’m currently learning Flutter ❤️
+- 👯 &ensp;I’m looking to collaborate with other content creators
+- ⚡ &ensp;Fun fact: I love reading & podcasts
 
 ### Connect with me:
 
@@ -29,7 +29,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Quick Actions for iOS & Android - Flutter](https://www.youtube.com/watch?v=iLxjbJtI_2w)
@@ -39,7 +39,7 @@
 - [InteractiveViewer - DeepDive - Flutter](https://www.youtube.com/watch?v=Jb5SUSlJrqc)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/JohannesMilke/videos)
+➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
 
 ---
 
