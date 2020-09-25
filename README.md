@@ -3,6 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=JohannesMilke&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke)
 [![GitHub followers](https://img.shields.io/github/followers/JohannesMilke?logo=GitHub&style=for-the-badge)][github]
+[![Linkedin: JohannesMilke](https://img.shields.io/badge/-FOLLOW-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/JohannesMilke/)](https://www.linkedin.com/in/JohannesMilke/)
 
 - 🔭 &ensp;I’m currently working on [Youtube][youtube]!
 - 🌱 &ensp;I’m currently learning Flutter ❤️
