@@ -2,12 +2,12 @@
 <h3 align="center">A Flutter programmer that keeps you alive 😜</h3>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=JohannesMilke&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke)
-[![GitHub followers](https://img.shields.io/github/followers/JohannesMilke?logo=GitHub&style=for-the-badge)[github]
+[![GitHub followers](https://img.shields.io/github/followers/JohannesMilke?logo=GitHub&style=for-the-badge)(https://github.com/JohannesMilke)
 
-- 🔭 I’m currently working on [Youtube][youtube]!
-- 🌱 I’m currently learning Flutter ❤️
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love reading & podcasts
+- 🔭  I’m currently working on [Youtube][youtube]!
+- 🌱  I’m currently learning Flutter ❤️
+- 👯  I’m looking to collaborate with other content creators
+- ⚡  Fun fact: I love reading & podcasts
 
 ### Connect with me:
 
