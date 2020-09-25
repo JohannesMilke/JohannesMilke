@@ -32,6 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Quick Actions for iOS & Android - Flutter](https://www.youtube.com/watch?v=iLxjbJtI_2w)
+- [Upload Contacts To Firebase - Flutter](https://www.youtube.com/watch?v=s39EDFhLQaI)
+- [Null Safety - Dart Basics - Flutter](https://www.youtube.com/watch?v=z7DaJlp1fB4)
+- [Clipping with ClipRRect & ClipPath - Flutter](https://www.youtube.com/watch?v=4sRDOJCNE24)
+- [InteractiveViewer - DeepDive - Flutter](https://www.youtube.com/watch?v=Jb5SUSlJrqc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/JohannesMilke/videos)
