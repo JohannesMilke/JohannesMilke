@@ -34,11 +34,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Skeleton Loading Screen - SkeletonText - Flutter](https://www.youtube.com/watch?v=Z2kKlM1WfRY)
 - [Complex Animations for PageView - Flutter](https://www.youtube.com/watch?v=7VqJo_Xeb98)
 - [Quick Actions for iOS & Android - Flutter](https://www.youtube.com/watch?v=iLxjbJtI_2w)
 - [Upload Contacts To Firebase - Flutter](https://www.youtube.com/watch?v=s39EDFhLQaI)
 - [Null Safety - Dart Basics - Flutter](https://www.youtube.com/watch?v=z7DaJlp1fB4)
-- [Clipping with ClipRRect & ClipPath - Flutter](https://www.youtube.com/watch?v=4sRDOJCNE24)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
