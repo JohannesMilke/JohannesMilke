@@ -34,11 +34,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Animate CreditCard - Sequence Animation - Flutter](https://www.youtube.com/watch?v=cknUItHktzs)
 - [Container - Deep Dive - Flutter](https://www.youtube.com/watch?v=gfxlI2UxTgo)
 - [AnimatedContainer - Deep Dive - Flutter](https://www.youtube.com/watch?v=Mj-NGe7svAg)
 - [ImagePicker - Pick Image & Video - Flutter](https://www.youtube.com/watch?v=BAgLOAGga2o)
 - [Preload Images Into Cache - Flutter](https://www.youtube.com/watch?v=M43XWGV3TE8)
-- [Sliding Up Panel - Flutter](https://www.youtube.com/watch?v=NvRAd9C-tm0)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
