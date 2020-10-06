@@ -34,11 +34,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Translation - Google Translate  - Flutter](https://www.youtube.com/watch?v=N_UI1Wps7bI)
 - [Carousel Slider - Loop & Infinite ListView - Flutter](https://www.youtube.com/watch?v=SQnmuulYWPU)
 - [Transform - Flip & Rotate Widgets  - Flutter](https://www.youtube.com/watch?v=FHgqEay3VUI)
 - [Animate CreditCard - Sequence Animation - Flutter](https://www.youtube.com/watch?v=cknUItHktzs)
 - [Container - Deep Dive - Flutter](https://www.youtube.com/watch?v=gfxlI2UxTgo)
-- [AnimatedContainer - Deep Dive - Flutter](https://www.youtube.com/watch?v=Mj-NGe7svAg)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
