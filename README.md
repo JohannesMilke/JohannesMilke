@@ -34,11 +34,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Rounded Modal Bottom Sheet - Flutter](https://www.youtube.com/watch?v=hei4bw7TRtM)
 - [Bottom Sheet - Permanent & Persistent  - Flutter](https://www.youtube.com/watch?v=84OuUPoO8ng)
 - [Video Skip / Rewind - Custom Controls  - Flutter](https://www.youtube.com/watch?v=Xo939-OYQbM)
 - [Social App Design - Flutter](https://www.youtube.com/watch?v=PvDOgOdUgkU)
 - [Translation - Google Translate  - Flutter](https://www.youtube.com/watch?v=N_UI1Wps7bI)
-- [Carousel Slider - Loop & Infinite ListView - Flutter](https://www.youtube.com/watch?v=SQnmuulYWPU)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
