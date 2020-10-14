@@ -34,11 +34,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Slidable - Swipe To Action - Flutter](https://www.youtube.com/watch?v=TmSKRUVKNsQ)
 - [Dismissible - Swipe To Action - Flutter](https://www.youtube.com/watch?v=cswTKnXtSqk)
 - [Text Recognition - Firebase ML - Flutter](https://www.youtube.com/watch?v=TNKtGOZRA5o)
 - [CheckBox - Toggle Single & Multiple  - Flutter](https://www.youtube.com/watch?v=BBO_Y8fTM7E)
 - [Modal Bottom Sheet - Rounded - Flutter](https://www.youtube.com/watch?v=hei4bw7TRtM)
-- [Bottom Sheet - Permanent & Persistent  - Flutter](https://www.youtube.com/watch?v=84OuUPoO8ng)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
