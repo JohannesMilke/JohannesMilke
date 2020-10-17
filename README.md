@@ -34,11 +34,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Builder & BuildContext (No Ancestor could be found - Flutter](https://www.youtube.com/watch?v=ALmd6jLqUK8)
 - [CircleAvatar - Deep Dive - Flutter](https://www.youtube.com/watch?v=PDgIfizxbbk)
 - [Animated List - Insert & Delete (Todo List) - Flutter](https://www.youtube.com/watch?v=rDFJhIobj7I)
 - [Slidable - Swipe To Action - Flutter](https://www.youtube.com/watch?v=TmSKRUVKNsQ)
 - [Dismissible - Swipe To Action - Flutter](https://www.youtube.com/watch?v=cswTKnXtSqk)
-- [Text Recognition - Firebase ML - Flutter](https://www.youtube.com/watch?v=TNKtGOZRA5o)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
