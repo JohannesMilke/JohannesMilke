@@ -38,11 +38,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ScrollController - Jump To Item (GridView) - Flutter](https://www.youtube.com/watch?v=1aYWIF35qlk)
 - [GridView - DeepDive - Flutter](https://www.youtube.com/watch?v=2MVXP6nNzoQ)
 - [WillPopScope & BackButton - Navigate Back Android - Flutter](https://www.youtube.com/watch?v=do5Ppu7Nfpg)
 - [DropdownButton - Single & Multiple Data - Flutter](https://www.youtube.com/watch?v=p1mzz6-19zo)
 - [Bar Chart - FLChart - Flutter](https://www.youtube.com/watch?v=7wUmzYOPQ8w)
-- [Bouncing Cards - Animator - Flutter](https://www.youtube.com/watch?v=pnDOXC60ltM)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
