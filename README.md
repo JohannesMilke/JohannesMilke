@@ -38,11 +38,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [FlutterUI - Minimal Designs - Movie App - Flutter](https://www.youtube.com/watch?v=aLwjk-G2Qik)
 - [Sidekick - Same Screen Hero Animations - Flutter](https://www.youtube.com/watch?v=ouQPt683r8Q)
 - [Pie Chart - FLChart - Flutter](https://www.youtube.com/watch?v=rZx_isqXrhg)
 - [Line Chart - FLChart - Flutter](https://www.youtube.com/watch?v=LB7B3zudivI)
 - [ScrollController - Jump To Item (GridView) - Flutter](https://www.youtube.com/watch?v=1aYWIF35qlk)
-- [GridView - DeepDive - Flutter](https://www.youtube.com/watch?v=2MVXP6nNzoQ)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
