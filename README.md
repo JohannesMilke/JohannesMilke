@@ -38,11 +38,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Setup Firebase Functions (Dart & JS) - Flutter](https://www.youtube.com/watch?v=7UcM6Y12LEk)
 - [Build A Chat App With Flutter & Firebase - Flutter](https://www.youtube.com/watch?v=wHIcJDQbBFs)
 - [FlutterUI - Minimal Designs - Movie App - Flutter](https://www.youtube.com/watch?v=aLwjk-G2Qik)
 - [Sidekick - Same Screen Hero Animations - Flutter](https://www.youtube.com/watch?v=ouQPt683r8Q)
 - [Pie Chart - FLChart - Flutter](https://www.youtube.com/watch?v=rZx_isqXrhg)
-- [Line Chart - FLChart - Flutter](https://www.youtube.com/watch?v=LB7B3zudivI)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
