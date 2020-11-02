@@ -38,11 +38,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Transition Animation - Locations UI Design - Flutter](https://www.youtube.com/watch?v=RLPZzDOPXG4)
 - [Switch Emoji Picker & Keyboard - Flutter](https://www.youtube.com/watch?v=BgyBIojDPAU)
 - [Pagination & Infinite Scrolling - Firestore - Flutter](https://www.youtube.com/watch?v=IruuzPydPz4)
 - [Setup Firebase Functions (Dart & JS) - Flutter](https://www.youtube.com/watch?v=7UcM6Y12LEk)
 - [Build A Chat App With Flutter & Firebase - Flutter](https://www.youtube.com/watch?v=wHIcJDQbBFs)
-- [FlutterUI - Minimal Designs - Movie App - Flutter](https://www.youtube.com/watch?v=aLwjk-G2Qik)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
