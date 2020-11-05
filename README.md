@@ -38,7 +38,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Reply Comments - Chat App With Flutter & Firebase - Flutter](https://www.youtube.com/watch?v=ojBSygkVaNo)
+- [Swipe To Reply - Chat App With Flutter & Firebase - Flutter](https://www.youtube.com/watch?v=ojBSygkVaNo)
 - [Hero Animation - Locations UI - Flutter](https://www.youtube.com/watch?v=C8Ot7wefZuc)
 - [Build A "USA Election 2020" Flutter App - Flutter](https://www.youtube.com/watch?v=m5qMUNrls2M)
 - [Transition Animation - Locations UI Design - Flutter](https://www.youtube.com/watch?v=RLPZzDOPXG4)
