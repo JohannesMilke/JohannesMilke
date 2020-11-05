@@ -38,11 +38,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Reply Comments - Chat App With Flutter & Firebase - Flutter](https://www.youtube.com/watch?v=ojBSygkVaNo)
 - [Hero Animation - Locations UI - Flutter](https://www.youtube.com/watch?v=C8Ot7wefZuc)
 - [Build A "USA Election 2020" Flutter App - Flutter](https://www.youtube.com/watch?v=m5qMUNrls2M)
 - [Transition Animation - Locations UI Design - Flutter](https://www.youtube.com/watch?v=RLPZzDOPXG4)
 - [Switch Emoji Picker & Keyboard - Flutter](https://www.youtube.com/watch?v=BgyBIojDPAU)
-- [Pagination & Infinite Scrolling - Firestore - Flutter](https://www.youtube.com/watch?v=IruuzPydPz4)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
