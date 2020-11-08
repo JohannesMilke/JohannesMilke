@@ -38,11 +38,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Text - Deep Dive - Flutter](https://www.youtube.com/watch?v=WYbXv9WtVwE)
 - [Flutter Story App (StoryView Plugin) - Flutter](https://www.youtube.com/watch?v=3f9oqIvxNc0)
 - [Wrap - Deep Dive - Flutter](https://www.youtube.com/watch?v=1nEmFuX1Cig)
 - [Swipe To Reply - Chat App With Flutter & Firebase - Flutter](https://www.youtube.com/watch?v=ojBSygkVaNo)
 - [Hero Animation - Locations UI - Flutter](https://www.youtube.com/watch?v=C8Ot7wefZuc)
-- [Build A "USA Election 2020" Flutter App - Flutter](https://www.youtube.com/watch?v=m5qMUNrls2M)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
