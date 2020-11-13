@@ -38,11 +38,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Align & Position Widgets - Flutter](https://www.youtube.com/watch?v=4wS5LdXJgEA)
 - [Opacity & Opacity Animation - Deep Dive - Flutter](https://www.youtube.com/watch?v=5m36JQLyZxI)
 - [ListView - Deep Dive - Flutter](https://www.youtube.com/watch?v=bJGRmldntOI)
 - [Column - Deep Dive - Flutter](https://www.youtube.com/watch?v=sydzWl_EMFk)
 - [Row - Deep Dive - Flutter](https://www.youtube.com/watch?v=fjcBkwguyOg)
-- [Text - Deep Dive - Flutter](https://www.youtube.com/watch?v=WYbXv9WtVwE)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
