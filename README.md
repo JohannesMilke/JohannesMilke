@@ -38,7 +38,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter Tutorial -Card - Deep Dive](https://www.youtube.com/watch?v=pDnfJvh7uzc)
+- [Flutter Tutorial - Card - Deep Dive](https://www.youtube.com/watch?v=pDnfJvh7uzc)
 - [Flutter Tutorial - Divider - Horizontal & Vertical - Deep Dive](https://www.youtube.com/watch?v=QeUjWjQNGBs)
 - [Flutter Tutorial - InkWell - DeepDive & Advanced Shape](https://www.youtube.com/watch?v=dw3U8bbzcdQ)
 - [Flutter Tutorial - Align & Position Widgets](https://www.youtube.com/watch?v=4wS5LdXJgEA)
