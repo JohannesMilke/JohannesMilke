@@ -38,11 +38,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Divider - Horizontal & Vertical - Deep Dive - Flutter](https://www.youtube.com/watch?v=QeUjWjQNGBs)
-- [InkWell - DeepDive & Advanced Shape - Flutter](https://www.youtube.com/watch?v=dw3U8bbzcdQ)
-- [Align & Position Widgets - Flutter](https://www.youtube.com/watch?v=4wS5LdXJgEA)
-- [Opacity & Opacity Animation - Deep Dive - Flutter](https://www.youtube.com/watch?v=5m36JQLyZxI)
-- [ListView - Deep Dive - Flutter](https://www.youtube.com/watch?v=bJGRmldntOI)
+- [Flutter Tutorial - Divider - Horizontal & Vertical - Deep Dive](https://www.youtube.com/watch?v=QeUjWjQNGBs)
+- [Flutter Tutorial - InkWell - DeepDive & Advanced Shape](https://www.youtube.com/watch?v=dw3U8bbzcdQ)
+- [Flutter Tutorial - Align & Position Widgets](https://www.youtube.com/watch?v=4wS5LdXJgEA)
+- [Flutter Tutorial - Opacity & Opacity Animation - Deep Dive](https://www.youtube.com/watch?v=5m36JQLyZxI)
+- [Flutter Tutorial - ListView - Deep Dive](https://www.youtube.com/watch?v=bJGRmldntOI)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
