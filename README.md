@@ -38,11 +38,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Chip - Deep Dive](https://www.youtube.com/watch?v=p2X7woOEFUE)
 - [Flutter Tutorial - Card - Deep Dive](https://www.youtube.com/watch?v=pDnfJvh7uzc)
 - [Flutter Tutorial - Divider - Horizontal & Vertical - Deep Dive](https://www.youtube.com/watch?v=QeUjWjQNGBs)
 - [Flutter Tutorial - InkWell - DeepDive & Advanced Shape](https://www.youtube.com/watch?v=dw3U8bbzcdQ)
 - [Flutter Tutorial - Align & Position Widgets](https://www.youtube.com/watch?v=4wS5LdXJgEA)
-- [Flutter Tutorial - Opacity & Opacity Animation - Deep Dive](https://www.youtube.com/watch?v=5m36JQLyZxI)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
