@@ -38,11 +38,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Email SignIn With Firebase](https://www.youtube.com/watch?v=rnHAInnjCmM)
 - [Flutter Tutorial - Google SignIn UI Design](https://www.youtube.com/watch?v=Zfr-gpYuh8A)
 - [Flutter Tutorial - Google SignIn With Firebase](https://www.youtube.com/watch?v=ogW83xGQGTg)
 - [Flutter Tutorial - Progress Indicator - Deep Dive](https://www.youtube.com/watch?v=y4_x6Ss8gOE)
 - [Flutter Tutorial - Chip - Deep Dive](https://www.youtube.com/watch?v=p2X7woOEFUE)
-- [Flutter Tutorial - Card - Deep Dive](https://www.youtube.com/watch?v=pDnfJvh7uzc)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
