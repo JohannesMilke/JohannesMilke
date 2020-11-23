@@ -38,11 +38,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - 1/3 Shop UI - From Scratch](https://www.youtube.com/watch?v=CQZr-GXe__Y)
 - [Flutter Tutorial - Tinder - Dating App Clone UI Challenge](https://www.youtube.com/watch?v=v1wofhoutBk)
 - [Flutter Tutorial - Email SignIn With Firebase](https://www.youtube.com/watch?v=rnHAInnjCmM)
 - [Flutter Tutorial - Google SignIn UI Design](https://www.youtube.com/watch?v=Zfr-gpYuh8A)
 - [Flutter Tutorial - Google SignIn With Firebase](https://www.youtube.com/watch?v=ogW83xGQGTg)
-- [Flutter Tutorial - Progress Indicator - Deep Dive](https://www.youtube.com/watch?v=y4_x6Ss8gOE)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
