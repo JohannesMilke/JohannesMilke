@@ -38,11 +38,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Flushbar Plugin & Top SnackBar](https://www.youtube.com/watch?v=H-XEIkUfN4M)
 - [Flutter Tutorial - SnackBar - Deep Dive](https://www.youtube.com/watch?v=UkudAgCEhBI)
 - [Flutter Tutorial - 2/2 Navigation & Named Routes](https://www.youtube.com/watch?v=btuxZkofLbs)
 - [Flutter Tutorial - 1/2 Navigation & Routes](https://www.youtube.com/watch?v=Xnp6ptZVs1g)
 - [Flutter Tutorial - 3/3 Shop UI - From Scratch](https://www.youtube.com/watch?v=YTo8dmV8A9s)
-- [Flutter Tutorial - 2/3 Shop UI - From Scratch](https://www.youtube.com/watch?v=dsVctcl-F0E)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
