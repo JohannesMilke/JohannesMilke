@@ -38,11 +38,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Visibility - Show / Hide Widgets](https://www.youtube.com/watch?v=v1pBKuK3-nY)
 - [Flutter Tutorial - FadeInImage With Placeholder](https://www.youtube.com/watch?v=P4xkAEOsQRI)
 - [Flutter Tutorial - Flushbar Plugin & Top SnackBar](https://www.youtube.com/watch?v=H-XEIkUfN4M)
 - [Flutter Tutorial - SnackBar - Deep Dive](https://www.youtube.com/watch?v=UkudAgCEhBI)
 - [Flutter Tutorial - 2/2 Navigation & Named Routes](https://www.youtube.com/watch?v=btuxZkofLbs)
-- [Flutter Tutorial - 1/2 Navigation & Routes](https://www.youtube.com/watch?v=Xnp6ptZVs1g)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
