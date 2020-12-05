@@ -38,11 +38,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Icons - Custom & Plugin Icons](https://www.youtube.com/watch?v=SGHfILyxpVQ)
 - [Flutter Tutorial - Todo App From Scratch - Firebase CRUD](https://www.youtube.com/watch?v=EV2DyrKOqrY)
 - [Flutter Tutorial - 2/2 Todo App UI From Scratch (Provider)](https://www.youtube.com/watch?v=cltCpXY60Sk)
 - [Flutter Tutorial - 1/2 Todo App UI From Scratch (Provider)](https://www.youtube.com/watch?v=kN9Yfd4fu04)
 - [Flutter Tutorial - Visibility - Show / Hide Widgets](https://www.youtube.com/watch?v=v1pBKuK3-nY)
-- [Flutter Tutorial - FadeInImage With Placeholder](https://www.youtube.com/watch?v=P4xkAEOsQRI)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
