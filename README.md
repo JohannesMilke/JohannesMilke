@@ -39,11 +39,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Riverpod - 1/3 The Ultimate Guide For Providers](https://www.youtube.com/watch?v=8H3bwxxla4Y)
 - [Flutter Tutorial - NavigationRail - Deep Dive](https://www.youtube.com/watch?v=t8vPjrCTHyg)
 - [Flutter Tutorial - Switch - Deep Dive](https://www.youtube.com/watch?v=PVuJ-If0AuU)
 - [Flutter Tutorial - Blur Widgets & Images - Backdrop Filter](https://www.youtube.com/watch?v=rBJBr4nuuuE)
 - [Flutter Tutorial - Icons - Custom & Plugin Icons](https://www.youtube.com/watch?v=SGHfILyxpVQ)
-- [Flutter Tutorial - Todo App From Scratch - Firebase CRUD](https://www.youtube.com/watch?v=EV2DyrKOqrY)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
