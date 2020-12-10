@@ -39,11 +39,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Riverpod - 2/3 The Ultimate Guide For Notifiers](https://www.youtube.com/watch?v=vD-I1ARIMnk)
 - [Flutter Tutorial - Riverpod - 1/3 The Ultimate Guide For Providers](https://www.youtube.com/watch?v=8H3bwxxla4Y)
 - [Flutter Tutorial - NavigationRail - Deep Dive](https://www.youtube.com/watch?v=t8vPjrCTHyg)
 - [Flutter Tutorial - Switch - Deep Dive](https://www.youtube.com/watch?v=PVuJ-If0AuU)
 - [Flutter Tutorial - Blur Widgets & Images - Backdrop Filter](https://www.youtube.com/watch?v=rBJBr4nuuuE)
-- [Flutter Tutorial - Icons - Custom & Plugin Icons](https://www.youtube.com/watch?v=SGHfILyxpVQ)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
