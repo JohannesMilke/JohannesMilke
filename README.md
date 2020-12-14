@@ -40,11 +40,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - 1/2 Image - DeepDive](https://www.youtube.com/watch?v=JDDoN2THwug)
 - [Flutter Tutorial - IgnorePointer & AbsorbPointer](https://www.youtube.com/watch?v=Dv6enrEOj10)
 - [Flutter Tutorial - Dialogs - Deep Dive](https://www.youtube.com/watch?v=EjfiI7AY6EY)
 - [Flutter Tutorial - Riverpod - 3/3 The Ultimate Guide For Modifiers](https://www.youtube.com/watch?v=7h2BrtK8Bpg)
 - [Flutter Tutorial - Riverpod - 2/3 The Ultimate Guide For Notifiers](https://www.youtube.com/watch?v=vD-I1ARIMnk)
-- [Flutter Tutorial - Riverpod - 1/3 The Ultimate Guide For Providers](https://www.youtube.com/watch?v=8H3bwxxla4Y)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
