@@ -40,11 +40,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - 1/2 Calculator UI From Scratch](https://www.youtube.com/watch?v=N8C-cW7u2JA)
 - [Flutter Tutorial - Onboarding UI Screen](https://www.youtube.com/watch?v=CQlA2p--oEg)
 - [Flutter Tutorial - 2/2 Image - Deep Dive](https://www.youtube.com/watch?v=7HoEsLvvRPg)
 - [Flutter Tutorial - 1/2 Image - Deep Dive](https://www.youtube.com/watch?v=JDDoN2THwug)
 - [Flutter Tutorial - IgnorePointer & AbsorbPointer](https://www.youtube.com/watch?v=Dv6enrEOj10)
-- [Flutter Tutorial - Dialogs - Deep Dive](https://www.youtube.com/watch?v=EjfiI7AY6EY)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
