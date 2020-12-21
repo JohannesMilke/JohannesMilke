@@ -40,11 +40,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - QR Code Scanner App](https://www.youtube.com/watch?v=Z32WsUiOegs)
 - [Flutter Tutorial - 2/2 Fitness App UI](https://www.youtube.com/watch?v=nmB4rPmY8dg)
 - [Flutter Tutorial - 1/2 Fitness App UI (For Beginners)](https://www.youtube.com/watch?v=4KQ-f_6Y7p8)
 - [Flutter Tutorial - 2/2 Calculator UI (Riverpod)](https://www.youtube.com/watch?v=6isW26d9TiE)
 - [Flutter Tutorial - 1/2 Calculator UI (Riverpod)](https://www.youtube.com/watch?v=N8C-cW7u2JA)
-- [Flutter Tutorial - Onboarding UI Screen](https://www.youtube.com/watch?v=CQlA2p--oEg)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
