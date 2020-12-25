@@ -40,7 +40,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter Tutorial - Update Plugins & Dependencies Automatically - VSCode & Intellij](https://www.youtube.com/watch?v=NhCi0Kw8bzg)
+- [Flutter Tutorial - Update Packages & Dependencies Automatically - VSCode & Intellij](https://www.youtube.com/watch?v=NhCi0Kw8bzg)
 - [Flutter Tutorial - AnimatedBuilder - Deep Dive](https://www.youtube.com/watch?v=LrrKOJjoHcc)
 - [Flutter Tutorial - Inherited Widget Explained In Detail](https://www.youtube.com/watch?v=utrvu-eow6U)
 - [Flutter Tutorial - Barcode Scanner App](https://www.youtube.com/watch?v=Ezzx0eIB4WM)
