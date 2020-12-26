@@ -40,11 +40,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - TextField - Deep Dive](https://www.youtube.com/watch?v=C5hJIKCTrvk)
 - [Flutter Tutorial - Update Packages & Dependencies Automatically - VSCode & Intellij](https://www.youtube.com/watch?v=NhCi0Kw8bzg)
 - [Flutter Tutorial - AnimatedBuilder - Deep Dive](https://www.youtube.com/watch?v=LrrKOJjoHcc)
 - [Flutter Tutorial - Inherited Widget Explained In Detail](https://www.youtube.com/watch?v=utrvu-eow6U)
 - [Flutter Tutorial - Barcode Scanner App](https://www.youtube.com/watch?v=Ezzx0eIB4WM)
-- [Flutter Tutorial - QR Code Scanner App](https://www.youtube.com/watch?v=Z32WsUiOegs)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
