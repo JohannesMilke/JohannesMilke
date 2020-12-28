@@ -40,11 +40,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - PopupMenuButton - Settings Menu](https://www.youtube.com/watch?v=Y-jgYe0vevM)
 - [Flutter Tutorial - How To Use Form and TextFormField](https://www.youtube.com/watch?v=2rn3XbBijy4)
 - [Flutter Tutorial - TextField - Deep Dive](https://www.youtube.com/watch?v=C5hJIKCTrvk)
 - [Flutter Tutorial - Update Packages & Dependencies Automatically - VSCode & Intellij](https://www.youtube.com/watch?v=NhCi0Kw8bzg)
 - [Flutter Tutorial - AnimatedBuilder - Deep Dive](https://www.youtube.com/watch?v=LrrKOJjoHcc)
-- [Flutter Tutorial - Inherited Widget Explained In Detail](https://www.youtube.com/watch?v=utrvu-eow6U)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
