@@ -40,11 +40,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Search App Bar](https://www.youtube.com/watch?v=RaACAwvZ61E)
 - [Flutter Tutorial - App Bar & Transparent App Bar](https://www.youtube.com/watch?v=dHBF4IJZvHk)
 - [Flutter Tutorial - Radio Button - Single & Group](https://www.youtube.com/watch?v=WPge1ZuEeCQ)
 - [Flutter Tutorial - ImageCropper - Pick & Crop Images](https://www.youtube.com/watch?v=pXbBTJt7frM)
 - [Flutter Tutorial - PopupMenuButton - Focused Menu](https://www.youtube.com/watch?v=Vttl7WGtkgg)
-- [Flutter Tutorial - PopupMenuButton - Settings Menu](https://www.youtube.com/watch?v=Y-jgYe0vevM)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
