@@ -47,7 +47,7 @@
 - [Flutter Tutorial - PopupMenuButton - Focused Menu](https://www.youtube.com/watch?v=Vttl7WGtkgg)
 <!-- YOUTUBE:END -->
 
-➡️ &ensp;[more videos...](https://youtube.com/JohannesMilke/videos)
+➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
 
 ---
 
