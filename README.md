@@ -40,11 +40,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Buttons 2.0 - Deep Dive](https://www.youtube.com/watch?v=ytlDKJBxW_A)
 - [Flutter Tutorial - StreamBuilder - Local & Network](https://www.youtube.com/watch?v=hiyFKdiQyNE)
 - [Flutter Tutorial - RichText - Deep Dive](https://www.youtube.com/watch?v=LmClaA3KCEE)
 - [Flutter Tutorial - FutureBuilder - Load JSON From Network & Local](https://www.youtube.com/watch?v=Rlf5q2EGHzc)
 - [Flutter Tutorial - Tooltip - Deep Dive](https://www.youtube.com/watch?v=Q96-u1GLyhw)
-- [Flutter Tutorial - Search App Bar - Local & Network Search](https://www.youtube.com/watch?v=RaACAwvZ61E)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
