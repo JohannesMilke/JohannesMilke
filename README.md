@@ -40,7 +40,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter Tutorial - Buttons 2.0 For Web](https://www.youtube.com/watch?v=V1Evs000yv8)
+- [Flutter Tutorial - Buttons 2.0 For Flutter Web](https://www.youtube.com/watch?v=V1Evs000yv8)
 - [Flutter Tutorial - Buttons 2.0 - Deep Dive](https://www.youtube.com/watch?v=ytlDKJBxW_A)
 - [Flutter Tutorial - StreamBuilder - Local & Network](https://www.youtube.com/watch?v=hiyFKdiQyNE)
 - [Flutter Tutorial - RichText - Deep Dive](https://www.youtube.com/watch?v=LmClaA3KCEE)
