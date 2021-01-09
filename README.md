@@ -40,11 +40,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Firebase Hosting - Deploy Your Flutter Web App](https://www.youtube.com/watch?v=xJo7Mqse960)
 - [Flutter Tutorial - Buttons 2.0 For Flutter Web](https://www.youtube.com/watch?v=V1Evs000yv8)
 - [Flutter Tutorial - Buttons 2.0 - Deep Dive](https://www.youtube.com/watch?v=ytlDKJBxW_A)
 - [Flutter Tutorial - StreamBuilder - Local & Network](https://www.youtube.com/watch?v=hiyFKdiQyNE)
 - [Flutter Tutorial - RichText - Deep Dive](https://www.youtube.com/watch?v=LmClaA3KCEE)
-- [Flutter Tutorial - FutureBuilder - Load JSON From Network & Local](https://www.youtube.com/watch?v=Rlf5q2EGHzc)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
