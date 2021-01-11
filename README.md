@@ -40,11 +40,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Share Texts, Images & Files - Flutter Share Plugin](https://www.youtube.com/watch?v=-PmUFbbA-Fs)
 - [Flutter Tutorial - Showcase & Highlight Widgets of Flutter App](https://www.youtube.com/watch?v=zbWPtF-V7g0)
 - [Flutter Tutorial - Firebase Hosting - Deploy Flutter Web App [2021]](https://www.youtube.com/watch?v=xJo7Mqse960)
 - [Flutter Tutorial - Buttons 2.0 For Flutter Web](https://www.youtube.com/watch?v=V1Evs000yv8)
 - [Flutter Tutorial - Buttons 2.0 - Deep Dive](https://www.youtube.com/watch?v=ytlDKJBxW_A)
-- [Flutter Tutorial - StreamBuilder - Local & Network](https://www.youtube.com/watch?v=hiyFKdiQyNE)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
