@@ -40,11 +40,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Switch & Animate Between Pages (For Beginners)](https://www.youtube.com/watch?v=3oE6JDuCBBo)
 - [Flutter Tutorial - Page Transition - Shared Axis Animation](https://www.youtube.com/watch?v=7dl_Cxo2FN0)
 - [Flutter Tutorial - Page Transition - Container Transform Animation](https://www.youtube.com/watch?v=1nwuihDA8pE)
 - [Flutter Tutorial - Sticky Headers In ListView & Sliver Tools](https://www.youtube.com/watch?v=QVxd0K_74Pc)
 - [Flutter Tutorial - Speech To Text & Voice Recognition [2021]](https://www.youtube.com/watch?v=jwlgHLHFIjc)
-- [Flutter Tutorial - Toggle Buttons - Deep Dive](https://www.youtube.com/watch?v=v2QGS4UqaqA)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
