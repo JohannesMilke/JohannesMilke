@@ -13,7 +13,7 @@
 - ⚡ &ensp;Fun fact: I love reading & podcasts
 - 📫 &ensp;How to reach me: [**Twitter**][twitter]
 
-### Connect with me
+### Connect With Me
 
 [<img align="left" alt="Johannes Milke | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
 [<img align="left" alt="Johannes Milke | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" />][youtube]
