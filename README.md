@@ -53,6 +53,14 @@
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
 
+### 📕 &ensp;Latest Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ &ensp;[More Articles...](https://medium.com/@JohannesMilke)
+
+
 ---
 
 [website]: https://johannesmilke.com
