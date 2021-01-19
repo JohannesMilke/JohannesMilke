@@ -13,7 +13,7 @@
 - ⚡ &ensp;Fun fact: I love reading & podcasts
 - 📫 &ensp;How to reach me: [**Twitter**][twitter]
 
-### Connect with me:
+### Connect with me
 
 
 [<img align="left" alt="Johannes Milke | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
@@ -28,7 +28,7 @@
 <br />
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 [<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][youtube]
 [<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][youtube]
 [<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][youtube]
