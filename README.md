@@ -64,7 +64,6 @@
 ➡️ &ensp;[More Articles...](https://medium.com/@JohannesMilke)
 
 
----
 
 [website]: https://johannesmilke.com
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke
