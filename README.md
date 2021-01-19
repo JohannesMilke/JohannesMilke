@@ -53,6 +53,8 @@
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
 
+---
+
 ### 📚 &ensp;Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
