@@ -16,13 +16,13 @@
 ### Connect with me
 
 
-[<div style="height:40px;"><img align="left" alt="Johannes Milke | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" /></div>][website]
-[<div style="height:40px;"><img align="left" alt="Johannes Milke | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" /></div>][youtube]
-[<div style="height:40px;"><img align="left" alt="Johannes Milke | Twitter" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ftwitter.png?alt=media" /></div>][twitter]
-[<div style="height:40px;"><img align="left" alt="Johannes Milke | Instagram" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Finstagram.png?alt=media" /></div>][instagram]
-[<div style="height:40px;"><img align="left" alt="Johannes Milke | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" /></div>][facebook]
-[<div style="height:40px;"><img align="left" alt="Johannes Milke | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" /></div>][linkedin]
-[<div style="height:40px;"><img align="left" alt="Johannes Milke | Medium" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fmedium.png?alt=media" /></div>][medium]
+[<img align="left" alt="Johannes Milke | Website" vspace="20" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
+[<img align="left" alt="Johannes Milke | YouTube" vspace="20" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" />][youtube]
+[<img align="left" alt="Johannes Milke | Twitter" vspace="20" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ftwitter.png?alt=media" />][twitter]
+[<img align="left" alt="Johannes Milke | Instagram" vspace="20" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Finstagram.png?alt=media" />][instagram]
+[<img align="left" alt="Johannes Milke | Facebook" vspace="20" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]
+[<img align="left" alt="Johannes Milke | LinkedIn" vspace="20" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin]
+[<img align="left" alt="Johannes Milke | Medium" vspace="20" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fmedium.png?alt=media" />][medium]
 
 
 <br />
