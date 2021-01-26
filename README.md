@@ -44,7 +44,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter Tutorial - Chat UI With StreamChat - Facebook Messenger Clone](https://www.youtube.com/watch?v=8KBt9R3Zuw0)
+- [Flutter Tutorial - Chat UI With Stream Chat - Facebook Messenger Clone](https://www.youtube.com/watch?v=8KBt9R3Zuw0)
 - [Flutter Tutorial - Upload Flutter Project To GitHub [2021]](https://www.youtube.com/watch?v=HPnB1tSs4C8)
 - [Flutter Tutorial - Login & Signup - Flutter UI - Persist JSON Data](https://www.youtube.com/watch?v=-32HIsRf26o)
 - [Flutter Tutorial - Shared Preferences - Store & Load Data For Data Persistence](https://www.youtube.com/watch?v=szOllHT1S7Y)
