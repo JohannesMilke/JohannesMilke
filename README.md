@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Orientation Builder - Portrait & Landscape](https://www.youtube.com/watch?v=eNE6CTDwS8U)
 - [Flutter Tutorial - Native Splash Screen & Real Splash Screen [2021] - Android & iOS](https://www.youtube.com/watch?v=8ME8Czqc-Oc)
 - [Flutter Tutorial - Change App Icon For Android & iOS [2021] - Flutter Launcher Icons](https://www.youtube.com/watch?v=n3r2kgnqhfo)
 - [Flutter Tutorial - Chat UI With Stream Chat - Facebook Messenger Clone](https://www.youtube.com/watch?v=8KBt9R3Zuw0)
 - [Flutter Tutorial - Upload Flutter Project To GitHub [2021]](https://www.youtube.com/watch?v=HPnB1tSs4C8)
-- [Flutter Tutorial - Login & Signup - Flutter UI - Persist JSON Data](https://www.youtube.com/watch?v=-32HIsRf26o)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
