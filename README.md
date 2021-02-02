@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - License Page - Display Software Licenses](https://www.youtube.com/watch?v=9lrLwIHI6IE)
 - [Flutter Tutorial - Chat UI With StreamChat #2 - Facebook Messenger](https://www.youtube.com/watch?v=zPTaYBtGUZw)
 - [Flutter Tutorial - Detect Wifi, Mobile & No Internet - Internet Connectivity](https://www.youtube.com/watch?v=_DaLGGzt8Hc)
 - [Flutter Tutorial - Stateful Widget Lifecycle  -  Flutter State For Beginners](https://www.youtube.com/watch?v=FL_U8ORv-2Q)
 - [Flutter Tutorial - Detect App Background & App Closed - Widgets Binding](https://www.youtube.com/watch?v=JyapvlrmM24)
-- [Flutter Tutorial - Orientation Builder - Portrait & Landscape](https://www.youtube.com/watch?v=eNE6CTDwS8U)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
