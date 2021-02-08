@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - AnimatedCrossFade - Deep Dive](https://www.youtube.com/watch?v=cm0OqXkf9ns)
 - [Flutter Tutorial - Range Slider - Deep Dive](https://www.youtube.com/watch?v=KPxq3SLjg98)
 - [Flutter Tutorial - Slider - Deep Dive](https://www.youtube.com/watch?v=vuw818gAlF8)
 - [Flutter Tutorial - Material Banner - Deep Dive](https://www.youtube.com/watch?v=tmv42IcXh9M)
 - [Flutter Tutorial - Banner - Rotated Text Banner](https://www.youtube.com/watch?v=OhFSvgNNtjo)
-- [Flutter Tutorial - Animated Switcher - Deep Dive](https://www.youtube.com/watch?v=p2Sr8n2J3I0)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
