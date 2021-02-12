@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Flutter Web Chat UI With StreamChat](https://www.youtube.com/watch?v=zjfJaicmLSI)
 - [Flutter Tutorial - Video Player - Fullscreen, Portrait & Landscape](https://www.youtube.com/watch?v=x0ZNQ0YXyfE)
 - [Flutter Tutorial - Video Player - Asset, File & Network](https://www.youtube.com/watch?v=uz4xRnE-UIw)
 - [Flutter Tutorial - AnimatedCrossFade - Deep Dive](https://www.youtube.com/watch?v=cm0OqXkf9ns)
 - [Flutter Tutorial - Range Slider - Deep Dive](https://www.youtube.com/watch?v=KPxq3SLjg98)
-- [Flutter Tutorial - Slider - Deep Dive](https://www.youtube.com/watch?v=vuw818gAlF8)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
