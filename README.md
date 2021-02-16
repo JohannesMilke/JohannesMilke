@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Localization & Internationalization with INTL & ARB Files](https://www.youtube.com/watch?v=Zw4KoorVxgg)
 - [Flutter Tutorial - 2/2 Quiz App UI](https://www.youtube.com/watch?v=pSKG8QZoqic)
 - [Flutter Tutorial - 1/2 Quiz App UI](https://www.youtube.com/watch?v=gSvd-i0JSsU)
 - [Flutter Tutorial - Notification Badge Icon [2021]](https://www.youtube.com/watch?v=-mYLjTYn4ZA)
 - [Flutter Tutorial - Sliver App Bar & Collapsing Toolbar [2021]](https://www.youtube.com/watch?v=s_3ak-4u43E)
-- [Flutter Tutorial - Flutter Web Chat UI With StreamChat - Response Web App 3/3](https://www.youtube.com/watch?v=zjfJaicmLSI)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
