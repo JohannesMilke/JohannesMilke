@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Detect Battery Level & State](https://www.youtube.com/watch?v=BSQpd_GBgBA)
 - [Flutter Tutorial - Drag & Drop Widgets - Draggable & DragTarget](https://www.youtube.com/watch?v=Bc0qB1jtHBk)
 - [Flutter Tutorial - Get Widget Size & Position - Get X, Y, Width & Height Of Widget](https://www.youtube.com/watch?v=8TWIE_GFs9E)
 - [Flutter Tutorial - Localization & Internationalization with INTL & ARB Files](https://www.youtube.com/watch?v=Zw4KoorVxgg)
 - [Flutter Tutorial - 2/2 Quiz App UI](https://www.youtube.com/watch?v=pSKG8QZoqic)
-- [Flutter Tutorial - 1/2 Quiz App UI](https://www.youtube.com/watch?v=gSvd-i0JSsU)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
