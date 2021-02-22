@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Fingerprint & Touch ID - Local Auth](https://www.youtube.com/watch?v=qTuVurGvdbM)
 - [Flutter Tutorial - Tic Tac Toe UI - Flutter Game From Scratch](https://www.youtube.com/watch?v=AXTbch6AvuE)
 - [Flutter Tutorial - Responsive UI Text Layout - Auto Size Text](https://www.youtube.com/watch?v=0O_qDZ48F7o)
 - [Flutter Tutorial - Detect Battery Level & State](https://www.youtube.com/watch?v=BSQpd_GBgBA)
 - [Flutter Tutorial - Drag & Drop Widgets - Draggable & DragTarget](https://www.youtube.com/watch?v=Bc0qB1jtHBk)
-- [Flutter Tutorial - Get Widget Size & Position - Get X, Y, Width & Height Of Widget](https://www.youtube.com/watch?v=8TWIE_GFs9E)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
