@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Time, Date & Date Range Picker](https://www.youtube.com/watch?v=a_fGsywyL90)
 - [Flutter Tutorial - Single & Multi Selection ListView - Country Code Picker](https://www.youtube.com/watch?v=8FVkuixvNHc)
 - [Flutter Tutorial - Expandable List - ExpansionTile & ListTile](https://www.youtube.com/watch?v=ReUa_Ws8EsY)
 - [Flutter Tutorial - Shader Mask - Deep Dive](https://www.youtube.com/watch?v=JD5IDUD-Moo)
 - [Flutter Tutorial - Face ID - Local Auth](https://www.youtube.com/watch?v=WIkdceaOUns)
-- [Flutter Tutorial - Fingerprint & Touch ID - Local Auth](https://www.youtube.com/watch?v=qTuVurGvdbM)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
