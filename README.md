@@ -44,7 +44,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter Tutorial - Migrate Flutter App To Null Safety](https://www.youtube.com/watch?v=GLnQphHi1BY)
+- [Flutter Tutorial - Migrate App To Flutter Null Safety](https://www.youtube.com/watch?v=GLnQphHi1BY)
 - [Flutter Tutorial - Flutter Signature Widget & Export Signature](https://www.youtube.com/watch?v=Vvul-W7h634)
 - [Flutter Tutorial - Pull To Refresh & Refresh Indicator - ListView](https://www.youtube.com/watch?v=ksi4Vrh9HCQ)
 - [Flutter Tutorial - Before and After Slider](https://www.youtube.com/watch?v=iBWnsQpByeU)
