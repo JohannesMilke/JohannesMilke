@@ -44,7 +44,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter Tutorial - Change App Display Name](https://www.youtube.com/watch?v=L9an5kN3C4E)
+- [Flutter Tutorial - Change App Display Name - Android & iOS](https://www.youtube.com/watch?v=L9an5kN3C4E)
 - [Flutter Tutorial - Scroll Controller - Scroll To Top In ListView & Scroll To End In ListView](https://www.youtube.com/watch?v=XWfg_d2t_Hk)
 - [Flutter Tutorial - Search In ListView & Filter ListView With JSON Data](https://www.youtube.com/watch?v=oFZIwBudIj0)
 - [Flutter Tutorial - Compare Objects - Equatable VS Hashcode & Equals](https://www.youtube.com/watch?v=KRupSlqAMqs)
