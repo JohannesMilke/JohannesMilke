@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Create Invoice PDF Document](https://www.youtube.com/watch?v=z_5xkhEkc5Y)
 - [Flutter Tutorial - Secure Storage & Data Persistence](https://www.youtube.com/watch?v=Oqhrxk_f1RE)
 - [Flutter Tutorial - Create PDF With Images & Tables](https://www.youtube.com/watch?v=8j6GKtpRkow)
 - [Flutter Tutorial - Create PDF With Headers & Texts - Preview PDF](https://www.youtube.com/watch?v=9nhZO88p1lY)
 - [Flutter Tutorial - Double Tap To Close App & Exit App Programmatically](https://www.youtube.com/watch?v=desUOyDN_dc)
-- [Flutter Tutorial - Create and Validate Forms With AutoComplete & Typeahead](https://www.youtube.com/watch?v=FxO_zeCsdFg)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
