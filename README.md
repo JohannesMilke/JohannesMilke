@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Password Field In 8 Minutes - Toggle Password Visibility](https://www.youtube.com/watch?v=qAinMgfAwh4)
 - [Flutter Tutorial - Email Validation In 7 Minutes](https://www.youtube.com/watch?v=mXyifVJ-NFc)
 - [Flutter Tutorial - Autofill Services In 5 Minutes - Android, iOS & Web](https://www.youtube.com/watch?v=v8T4fnrQCf0)
 - [Flutter Tutorial - Create Invoice PDF Document](https://www.youtube.com/watch?v=z_5xkhEkc5Y)
 - [Flutter Tutorial - Secure Storage & Data Persistence](https://www.youtube.com/watch?v=Oqhrxk_f1RE)
-- [Flutter Tutorial - Create PDF With Images & Tables](https://www.youtube.com/watch?v=8j6GKtpRkow)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
