@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Hide System Navigation Bar](https://www.youtube.com/watch?v=uV1yolkEB6Y)
 - [Flutter Tutorial - Show / Hide Status Bar In 90 Seconds](https://www.youtube.com/watch?v=tFPA1R4zvSg)
 - [Flutter Tutorial - Safe Area VS AppBar - Android & iOS](https://www.youtube.com/watch?v=4O16fHaJc7E)
 - [Flutter Tutorial - Password Field In 8 Minutes - Toggle Password Visibility](https://www.youtube.com/watch?v=qAinMgfAwh4)
 - [Flutter Tutorial - Email Validation In 7 Minutes](https://www.youtube.com/watch?v=mXyifVJ-NFc)
-- [Flutter Tutorial - Autofill Services In 5 Minutes - Android, iOS & Web](https://www.youtube.com/watch?v=v8T4fnrQCf0)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
