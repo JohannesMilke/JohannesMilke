@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Selectable DataTable & Select Rows](https://www.youtube.com/watch?v=HZD-0zgpuak)
 - [Flutter Tutorial - Sortable DataTable In 9 Minutes](https://www.youtube.com/watch?v=SJxByHLs72k)
 - [Flutter Tutorial - Hide System Navigation Bar](https://www.youtube.com/watch?v=uV1yolkEB6Y)
 - [Flutter Tutorial - Show / Hide Status Bar In 90 Seconds](https://www.youtube.com/watch?v=tFPA1R4zvSg)
 - [Flutter Tutorial - Safe Area VS AppBar - Android & iOS](https://www.youtube.com/watch?v=4O16fHaJc7E)
-- [Flutter Tutorial - Password Field In 8 Minutes - Toggle Password Visibility](https://www.youtube.com/watch?v=qAinMgfAwh4)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
