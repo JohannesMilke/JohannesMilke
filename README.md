@@ -44,7 +44,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter Tutorial - Flutter Layout Basics](https://www.youtube.com/watch?v=yYxueTNIDlA)
+- [Flutter Layout Basics: Row, Column, Stack, Expanded, Container, ListView, GridView [2021]](https://www.youtube.com/watch?v=yYxueTNIDlA)
 - [Flutter Tutorial - Hello World App In 5 Minutes - Your First Flutter App](https://www.youtube.com/watch?v=UPSsxGQRIzs)
 - [Flutter Tutorial - Editable DataTable & Edit Rows](https://www.youtube.com/watch?v=D6yndJ_lk14)
 - [Flutter Tutorial - Selectable DataTable & Select Rows](https://www.youtube.com/watch?v=HZD-0zgpuak)
