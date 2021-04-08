@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Dart List Utility Methods: ForEach, Map, Contains, Sort, Reduce, Where, Expand](https://www.youtube.com/watch?v=W-gIKcS_hQA)
 - [Flutter Layout Basics: Row, Column, Stack, Expanded, Container, ListView, GridView [2021]](https://www.youtube.com/watch?v=yYxueTNIDlA)
 - [Flutter Tutorial - Hello World App In 5 Minutes - Your First Flutter App](https://www.youtube.com/watch?v=UPSsxGQRIzs)
 - [Flutter Tutorial - Editable DataTable & Edit Rows](https://www.youtube.com/watch?v=D6yndJ_lk14)
 - [Flutter Tutorial - Selectable DataTable & Select Rows](https://www.youtube.com/watch?v=HZD-0zgpuak)
-- [Flutter Tutorial - Sortable DataTable In 9 Minutes](https://www.youtube.com/watch?v=SJxByHLs72k)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
