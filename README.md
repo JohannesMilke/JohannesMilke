@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Row Layout Basics 2/3 - Row, Column, Stack](https://www.youtube.com/watch?v=lY5GtNkvyhM)
 - [Flutter Tutorial - Column Layout Basics 1/3 - Row, Column, Stack](https://www.youtube.com/watch?v=nW9pAyDs-wE)
 - [Flutter Tutorial - FloatingActionButton Widget (FAB)](https://www.youtube.com/watch?v=oCbo-yyrfXE)
 - [Flutter Tutorial - Dart List Utility Methods: ForEach, Map, Contains, Sort, Reduce, Where, Expand](https://www.youtube.com/watch?v=W-gIKcS_hQA)
 - [Flutter Layout Basics: Row, Column, Stack, Expanded, Container, ListView, GridView [2021]](https://www.youtube.com/watch?v=yYxueTNIDlA)
-- [Flutter Tutorial - Hello World App In 5 Minutes - Your First Flutter App](https://www.youtube.com/watch?v=UPSsxGQRIzs)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
