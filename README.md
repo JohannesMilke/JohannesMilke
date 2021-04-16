@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Hive NoSQL Database In 16 Minutes & Hive CRUD | Android, iOS & Web](https://www.youtube.com/watch?v=w8cZKm9s228)
 - [Flutter Tutorial - Database Storage Using Sqlite & Sqflite CRUD | Android & iOS](https://www.youtube.com/watch?v=UpKrhZ0Hppk)
 - [Flutter Tutorial - Stacked Images & Stacked Widgets](https://www.youtube.com/watch?v=ut9CeTQRax0)
 - [Flutter Tutorial - Drag & Select Items In GridView](https://www.youtube.com/watch?v=DozNBmc79L4)
 - [Flutter Tutorial - Stack Layout Basics 3/3 - Row, Column, Stack](https://www.youtube.com/watch?v=JZRBHY2xgu4)
-- [Flutter Tutorial - Row Layout Basics 2/3 - Row, Column, Stack](https://www.youtube.com/watch?v=lY5GtNkvyhM)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
