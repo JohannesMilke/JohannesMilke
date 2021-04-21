@@ -44,7 +44,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Firebase Setup For Android [2021] 1/3 | Android, iOS, Flutter Web](https://www.youtube.com/watch?v=CpyALC8Zpxo)
+- [Flutter Tutorial - Firebase Setup For Android [2021] 1/3 | Android, iOS, Web](https://www.youtube.com/watch?v=CpyALC8Zpxo)
 - [Flutter Tutorial - Drag & Drop In ListView](https://www.youtube.com/watch?v=HmiaGyf55ZM)
 - [Flutter Tutorial - Download Files From Firebase Storage - Download Images, Videos, Files [2021]](https://www.youtube.com/watch?v=YA_fHCF_EYc)
 - [Flutter Tutorial - Upload Files To Firebase Storage - Upload Images, Videos & Files [2021]](https://www.youtube.com/watch?v=dmZ9Tg9k13U)
