@@ -44,7 +44,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter Tutorial - Sidebar Menu & Selectable Navigation Drawer [2021]](https://www.youtube.com/watch?v=HTi9wvIG1lI)
+- [Flutter Tutorial - Selectable Sidebar Menu & Navigation Drawer [2021]](https://www.youtube.com/watch?v=HTi9wvIG1lI)
 - [Flutter Tutorial - Sidebar Menu & Navigation Drawer With Routing [2021]](https://www.youtube.com/watch?v=ts9n211n8ZU)
 - [Flutter Tutorial - Firebase Setup For Flutter Web [2021] 3/3 | Android, iOS, Web](https://www.youtube.com/watch?v=Z0jFkP0A3B0)
 - [Flutter Tutorial - Firebase Setup For iOS [2021] 2/3 | Android, iOS, Web](https://www.youtube.com/watch?v=yj4vaz2rxC0)
