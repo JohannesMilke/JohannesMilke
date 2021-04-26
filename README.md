@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [User Profile Page UI Preview - Flutter Tutorial #Shorts](https://www.youtube.com/watch?v=so_JjykoWLs)
 - [Flutter Tutorial - User Profile Page UI [2021] 1/2](https://www.youtube.com/watch?v=gSl-MoykYYk)
 - [Flutter Tutorial - Collapsible Sidebar Menu & Navigation Drawer [2021]](https://www.youtube.com/watch?v=eT9wTf6HFS8)
 - [Flutter Tutorial - Selectable Sidebar Menu & Navigation Drawer [2021]](https://www.youtube.com/watch?v=HTi9wvIG1lI)
 - [Flutter Tutorial - Sidebar Menu & Navigation Drawer With Routing [2021]](https://www.youtube.com/watch?v=ts9n211n8ZU)
-- [Flutter Tutorial - Firebase Setup For Flutter Web [2021] 3/3 | Android, iOS, Web](https://www.youtube.com/watch?v=Z0jFkP0A3B0)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
