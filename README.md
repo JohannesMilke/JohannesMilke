@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - User Profile Page & Data Persistence With Shared Preferences](https://www.youtube.com/watch?v=WFJt5dCJsTo)
 - [Flutter Tutorial - User Profile Page UI [2021] 2/2](https://www.youtube.com/watch?v=ZfSiFtT0z_I)
 - [User Profile Page UI Preview - Flutter Tutorial #Shorts](https://www.youtube.com/watch?v=so_JjykoWLs)
 - [Flutter Tutorial - User Profile Page UI [2021] 1/2](https://www.youtube.com/watch?v=gSl-MoykYYk)
 - [Flutter Tutorial - Collapsible Sidebar Menu & Navigation Drawer [2021]](https://www.youtube.com/watch?v=eT9wTf6HFS8)
-- [Flutter Tutorial - Selectable Sidebar Menu & Navigation Drawer [2021]](https://www.youtube.com/watch?v=HTi9wvIG1lI)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
