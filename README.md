@@ -11,7 +11,7 @@
 - 👯 &ensp;I’m looking to collaborate with other content creators
 - 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 3 years
 - ⚡ &ensp;Fun fact: I love reading & podcasts
-- 📫 &ensp;How to reach me: [**Twitter**][twitter]
+- 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
 
 ### Connect With Me
 
@@ -73,3 +73,4 @@
 [instagram]: https://www.instagram.com/johannesmilke
 [facebook]: https://www.facebook.com/real.JohannesMilke
 [medium]: https://medium.com/@JohannesMilke
+[email]: mailto:hello@johannesmilke.com
