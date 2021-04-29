@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Selectable Text & Text Selection Preview - Flutter Tutorial #Shorts](https://www.youtube.com/watch?v=ju9mKgAIwi4)
 - [Flutter Tutorial - Selectable Text & Text Selection In 90 Seconds | Highlight, SelectAll & Copy Text](https://www.youtube.com/watch?v=lyJjWFqnxOU)
 - [Flutter Tutorial - User Profile Page & Data Persistence With Shared Preferences](https://www.youtube.com/watch?v=WFJt5dCJsTo)
 - [Flutter Tutorial - User Profile Page UI [2021] 2/2](https://www.youtube.com/watch?v=ZfSiFtT0z_I)
 - [User Profile Page UI Preview - Flutter Tutorial #Shorts](https://www.youtube.com/watch?v=so_JjykoWLs)
-- [Flutter Tutorial - User Profile Page UI [2021] 1/2](https://www.youtube.com/watch?v=gSl-MoykYYk)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
