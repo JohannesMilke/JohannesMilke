@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Animated Icon In 7 Minutes #Shorts](https://www.youtube.com/watch?v=DO8p51eGqoo)
+- [Flutter Tutorial - Animated Icon In 7 Minutes](https://www.youtube.com/watch?v=oGHeVdGLMjI)
 - [Flutter Preview - Dynamic Settings Menu & AppBar Dropdown Menu [2021] (Popup Menu Button) #Shorts](https://www.youtube.com/watch?v=V2jMyXZTV_w)
 - [Flutter Tutorial - Dynamic Settings Menu & AppBar Dropdown Menu [2021] 2/2 (Popup Menu Button)](https://www.youtube.com/watch?v=JggTBrvVrk8)
 - [Flutter Preview - Settings Menu & AppBar Dropdown Menu [2021] 1/2 (Popup Menu Button) #Shorts](https://www.youtube.com/watch?v=mkiM1DxEbXQ)
-- [Flutter Tutorial - Settings Menu & AppBar Dropdown Menu [2021] 1/2 (Popup Menu Button)](https://www.youtube.com/watch?v=TczSxNJB1gU)
-- [Flutter Preview - Fix Bottom Overflowed By Pixels [2021] When Keyboard Appears #Shorts](https://www.youtube.com/watch?v=Y_pWPkWdpac)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
