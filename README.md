@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Install External Packages (http) From pub.dev | Pub Get & Pub Upgrade #Shorts](https://www.youtube.com/watch?v=3D9eRIOI_RU)
+- [Flutter Tutorial - Install External Packages (http) From pub.dev [2021] | Pub Get & Pub Upgrade](https://www.youtube.com/watch?v=pgLzHlvYbdc)
 - [Flutter Preview - Material Ripple Effect In 180 Seconds | InkWell, InkResponse, InkImage #Shorts](https://www.youtube.com/watch?v=qLpU6vozWXw)
 - [Flutter Tutorial - Material Ripple Effect In 180 Seconds | InkWell, InkResponse, InkImage](https://www.youtube.com/watch?v=2t-I0uryD6E)
 - [Flutter Preview - Animated Icon In 7 Minutes #Shorts](https://www.youtube.com/watch?v=DO8p51eGqoo)
-- [Flutter Tutorial - Animated Icon In 7 Minutes](https://www.youtube.com/watch?v=oGHeVdGLMjI)
-- [Flutter Preview - Dynamic Settings Menu & AppBar Dropdown Menu [2021] (Popup Menu Button) #Shorts](https://www.youtube.com/watch?v=V2jMyXZTV_w)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
