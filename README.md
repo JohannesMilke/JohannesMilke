@@ -45,7 +45,7 @@
 
 <!-- YOUTUBE:START -->
 - [Flutter Preview - Hot Reload & Hot Restart In 4 Minutes | Flutter Hot Reload Not Working? #Shorts](https://www.youtube.com/watch?v=NXyx8K06LpQ)
-- [Flutter Tutorial - Hot Reload & Hot Restart In 4 Minutes | Flutter Hot Reload Not Working?](https://www.youtube.com/watch?v=FeR09zZ8xrU)
+- [Flutter Tutorial - Hot Reload & Hot Restart [2021] In 4 Minutes | Flutter Hot Reload Not Working?](https://www.youtube.com/watch?v=FeR09zZ8xrU)
 - [Flutter Preview - Install External Packages From GitHub / File System [2021] #Shorts](https://www.youtube.com/watch?v=sN48Y2sHuUg)
 - [Flutter Tutorial - Install External Packages From GitHub / Local File System [2021]](https://www.youtube.com/watch?v=e0-yKwJcDdU)
 - [Flutter Preview - Install External Packages (http) From Pub.dev | Pub Get & Pub Upgrade #Shorts](https://www.youtube.com/watch?v=3D9eRIOI_RU)
