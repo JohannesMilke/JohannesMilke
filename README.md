@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Calendar Events App #Shorts](https://www.youtube.com/watch?v=D7hO1WA-hc8)
+- [Flutter Tutorial - Calendar Event App [2021] With Day View & Week View - Flutter Syncfusion Calendar](https://www.youtube.com/watch?v=LoDtxRkGDTw)
 - [Flutter Preview - Persistent Bottom Sheet #Shorts](https://www.youtube.com/watch?v=0Vct7a4GPbo)
 - [Flutter Tutorial - Persistent Bottom Sheet](https://www.youtube.com/watch?v=o01hE56RMrc)
 - [Flutter Preview - CheckBox List & CheckBox Group #Shorts](https://www.youtube.com/watch?v=woYmW7UqiHk)
-- [Flutter Tutorial - CheckBox List & CheckBox Group [2021] - Toggle Single & Multiple](https://www.youtube.com/watch?v=7KaU4smRhnA)
-- [Flutter Preview - Hot Reload & Hot Restart In 4 Minutes | Flutter Hot Reload Not Working? #Shorts](https://www.youtube.com/watch?v=NXyx8K06LpQ)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
