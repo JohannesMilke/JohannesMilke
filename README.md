@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Animated List & Todo List - Insert & Remove Items #Shorts](https://www.youtube.com/watch?v=g4SEgOhLHBg)
+- [Flutter Tutorial - Animated List & Todo List [2021] - Insert & Remove Items](https://www.youtube.com/watch?v=E3SQOqUq8Mg)
 - [Flutter Preview - Calendar Events App #Shorts](https://www.youtube.com/watch?v=D7hO1WA-hc8)
 - [Flutter Tutorial - Calendar Event App [2021] With Day View & Week View - Flutter Syncfusion Calendar](https://www.youtube.com/watch?v=LoDtxRkGDTw)
 - [Flutter Preview - Persistent Bottom Sheet #Shorts](https://www.youtube.com/watch?v=0Vct7a4GPbo)
-- [Flutter Tutorial - Persistent Bottom Sheet](https://www.youtube.com/watch?v=o01hE56RMrc)
-- [Flutter Preview - CheckBox List & CheckBox Group #Shorts](https://www.youtube.com/watch?v=woYmW7UqiHk)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
