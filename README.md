@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - App Bar Design UI & Transparent App Bar [2021] #Shorts](https://www.youtube.com/watch?v=nuiS_SPn8IA)
+- [Flutter Tutorial - App Bar Design UI & Transparent App Bar [2021]](https://www.youtube.com/watch?v=BAshFKJptFg)
 - [Flutter Preview - Compress Video & Reduce Video Size | Without FFmpeg #Shorts](https://www.youtube.com/watch?v=t0JFwM1A3sc)
 - [Flutter Tutorial - Compress Video & Reduce Video Size | Without FFmpeg](https://www.youtube.com/watch?v=JUeWeZXn71M)
 - [Flutter Preview - GridView VS Staggered GridView With Dynamic Height #Shorts](https://www.youtube.com/watch?v=D3gOLSRM6oY)
-- [Flutter Tutorial - GridView VS Staggered GridView [2021] With Dynamic Height](https://www.youtube.com/watch?v=XNwL_9ur8R8)
-- [Flutter Preview - Card Widget Design With Image, Button, Text, Border, Size, Padding #Shorts](https://www.youtube.com/watch?v=eCDo6QK9PKI)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
