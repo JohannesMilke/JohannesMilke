@@ -44,8 +44,8 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter Preview - Google SignIn With Firebase Auth [2021] - Android, iOS, Flutter Web #Shorts](https://www.youtube.com/watch?v=4AzO-wXO3BY)
-- [Flutter Tutorial - Google SignIn With Firebase Auth [2021] - Android, iOS, Flutter Web](https://www.youtube.com/watch?v=1k-gITZA9CI)
+- [Flutter Preview - Google SignIn [2021] With Firebase Auth - Android, iOS, Flutter Web #Shorts](https://www.youtube.com/watch?v=4AzO-wXO3BY)
+- [Flutter Tutorial - Google SignIn [2021] With Firebase Auth - Android, iOS, Flutter Web](https://www.youtube.com/watch?v=1k-gITZA9CI)
 - [Flutter Preview - Sliding Up Panel & Draggable Sliding Sheet [2021] #Shorts](https://www.youtube.com/watch?v=6ZbLRjaUXrM)
 - [Flutter Tutorial - Sliding Up Panel & Draggable Sliding Sheet [2021]](https://www.youtube.com/watch?v=s9XHOQeIeZg)
 - [Flutter Preview - App Bar Design UI & Transparent App Bar [2021] #Shorts](https://www.youtube.com/watch?v=nuiS_SPn8IA)
