@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Google SignIn WITHOUT Firebase [2021] - Android, iOS, Flutter Web #Shorts](https://www.youtube.com/watch?v=_IpNPN6Me9c)
+- [Flutter Tutorial - Google SignIn WITHOUT Firebase [2021] - Android, iOS, Flutter Web](https://www.youtube.com/watch?v=E5WgU6ERZzA)
 - [Flutter Preview - Fix Text Overflow & Row Overflow #Shorts](https://www.youtube.com/watch?v=BMTUdmbJhxk)
 - [Flutter Tutorial - Fix Text Overflow & Row Overflow](https://www.youtube.com/watch?v=3VvxU4EL51M)
 - [Flutter Preview - Delivery App: Export Signature & Create Invoice PDF #Shorts](https://www.youtube.com/watch?v=klcZU4pIy0c)
-- [Flutter Tutorial - Delivery App: Export Signature & Create Invoice PDF With Syncfusion Flutter](https://www.youtube.com/watch?v=fg2aLXNG0Bc)
-- [Flutter Preview - Crypto App & DataTable With Syncfusion Flutter DataGrid #Shorts](https://www.youtube.com/watch?v=OyT7txHGx7A)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
