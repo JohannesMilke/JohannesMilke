@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - QR Code Scanner App [2021] & QR Code Generator #Shorts](https://www.youtube.com/watch?v=XHxc30wuvXw)
+- [Flutter Tutorial - QR Code Scanner App [2021] & QR Code Generator](https://www.youtube.com/watch?v=hHehIGfX_yU)
 - [Flutter Preview - Google SignIn WITHOUT Firebase [2021] - Android, iOS, Flutter Web #Shorts](https://www.youtube.com/watch?v=_IpNPN6Me9c)
 - [Flutter Tutorial - Google SignIn WITHOUT Firebase [2021] - Android, iOS, Flutter Web](https://www.youtube.com/watch?v=E5WgU6ERZzA)
 - [Flutter Preview - Fix Text Overflow & Row Overflow #Shorts](https://www.youtube.com/watch?v=BMTUdmbJhxk)
-- [Flutter Tutorial - Fix Text Overflow & Row Overflow](https://www.youtube.com/watch?v=3VvxU4EL51M)
-- [Flutter Preview - Delivery App: Export Signature & Create Invoice PDF #Shorts](https://www.youtube.com/watch?v=klcZU4pIy0c)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
