@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Precache Images & Lazy Loading Images (Cached Network Image) #Shorts](https://www.youtube.com/watch?v=ZkxH1BoyQeE)
+- [Flutter Tutorial - Precache Images & Lazy Loading Images (Cached Network Image)](https://www.youtube.com/watch?v=R9md60dIwd0)
 - [Flutter Preview - Cached Network Image: Download & Cache Network Image #Shorts](https://www.youtube.com/watch?v=dlARh9CtKSs)
 - [Flutter Tutorial - Cached Network Image: Download & Cache Network Image](https://www.youtube.com/watch?v=6wvD-Z-9ZRM)
 - [Flutter Preview - Barcode Scanner App [2021] & Barcode Generator #Shorts](https://www.youtube.com/watch?v=vf4b0BRijrc)
-- [Flutter Tutorial - Barcode Scanner App [2021] & Barcode Generator](https://www.youtube.com/watch?v=jkqR7CSeyNs)
-- [Flutter Preview - QR Code Scanner App [2021] & QR Code Generator #Shorts](https://www.youtube.com/watch?v=XHxc30wuvXw)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
