@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Shimmer Effect Animations For Images & Texts In 90 Seconds #Shorts](https://www.youtube.com/watch?v=TNPwS2P0Cdg)
+- [Flutter Tutorial - Shimmer Effect Animations For Images & Texts In 90 Seconds](https://www.youtube.com/watch?v=bIL9O-mNFRk)
 - [Flutter Preview - Shimmer Loading Animation [2021] Shimmer Effect  #Shorts](https://www.youtube.com/watch?v=prIcIq2J6ek)
 - [Flutter Tutorial - Shimmer Loading Animation [2021] Shimmer Effect](https://www.youtube.com/watch?v=yhABSANrsNc)
 - [Flutter Preview - Precache Images & Lazy Loading Images (Cached Network Image) #Shorts](https://www.youtube.com/watch?v=ZkxH1BoyQeE)
-- [Flutter Tutorial - Precache Images & Lazy Loading Images (Cached Network Image)](https://www.youtube.com/watch?v=R9md60dIwd0)
-- [Flutter Preview - Cached Network Image: Download & Cache Network Image #Shorts](https://www.youtube.com/watch?v=dlARh9CtKSs)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
