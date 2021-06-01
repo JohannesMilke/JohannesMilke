@@ -44,8 +44,8 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter Preview - Google Sheets API 3/3 [2021] & SpreadSheets CRUD: Update & Delete Data #Shorts](https://www.youtube.com/watch?v=aECukvy6V8c)
-- [Flutter Tutorial - Google Sheets API 3/3 [2021] & SpreadSheets CRUD: Update & Delete Data](https://www.youtube.com/watch?v=7RBMsjgAocs)
+- [Flutter Preview - Update & Delete Data With Google Sheets API 3/3 [2021] & SpreadSheets CRUD #Shorts](https://www.youtube.com/watch?v=aECukvy6V8c)
+- [Flutter Tutorial - Update & Delete Data With Google Sheets API 3/3 [2021] & SpreadSheets CRUD](https://www.youtube.com/watch?v=7RBMsjgAocs)
 - [Flutter Preview - Google Sheets API 2/3 [2021] & SpreadSheets CRUD: Read & Fetch Data #Shorts](https://www.youtube.com/watch?v=YAE_TXu6egA)
 - [Flutter Tutorial - Google Sheets API 2/3 [2021] & SpreadSheets CRUD: Read & Fetch Data](https://www.youtube.com/watch?v=qAEb7VytWP8)
 - [Flutter Preview - Google Sheets API 1/3 [2021] & SpreadSheets CRUD: Create & Save Data #Shorts](https://www.youtube.com/watch?v=HPAdxBEySVU)
