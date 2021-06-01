@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Google Sheets API 3/3 [2021] & SpreadSheets CRUD: Update & Delete Data #Shorts](https://www.youtube.com/watch?v=aECukvy6V8c)
+- [Flutter Tutorial - Google Sheets API 3/3 [2021] & SpreadSheets CRUD: Update & Delete Data](https://www.youtube.com/watch?v=7RBMsjgAocs)
 - [Flutter Preview - Google Sheets API 2/3 [2021] & SpreadSheets CRUD: Read & Fetch Data #Shorts](https://www.youtube.com/watch?v=YAE_TXu6egA)
 - [Flutter Tutorial - Google Sheets API 2/3 [2021] & SpreadSheets CRUD: Read & Fetch Data](https://www.youtube.com/watch?v=qAEb7VytWP8)
 - [Flutter Preview - Google Sheets API 1/3 [2021] & SpreadSheets CRUD: Create & Save Data #Shorts](https://www.youtube.com/watch?v=HPAdxBEySVU)
-- [Flutter Tutorial - Google Sheets API 1/3 [2021] & Google SpreadSheets CRUD: Create & Save Data](https://www.youtube.com/watch?v=3UJ6RnWTGIY)
-- [Flutter Preview - Draggable Modal Bottom Sheet: Scrollable, Rounded Corners, Height #Shorts](https://www.youtube.com/watch?v=PnGJ9k_c8X4)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
