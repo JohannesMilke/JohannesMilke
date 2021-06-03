@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Set Screen Background Color In 7 Minutes: Color Hex, Background Color Grad #Shorts](https://www.youtube.com/watch?v=IBtoFFOsEJM)
+- [Flutter Tutorial - Set Screen Background Color In 7 Minutes: Color Hex, Background Color Gradient](https://www.youtube.com/watch?v=eN62zlmjAEQ)
 - [Flutter Preview - SnackBar In 6 Minutes & Scaffold Messenger [2021] Duration, Dismiss #Shorts](https://www.youtube.com/watch?v=RfZ9xnAQrxc)
 - [Flutter Tutorial - SnackBar In 6 Minutes & Scaffold Messenger [2021] Duration, Dismiss](https://www.youtube.com/watch?v=Q_YO_Y5u2Pg)
 - [Flutter Preview - Google Sheets API 3/3 - Update & Delete Data [2021] & SpreadSheets CRUD #Shorts](https://www.youtube.com/watch?v=aECukvy6V8c)
-- [Flutter Tutorial - Google Sheets API 3/3 - Update & Delete Data [2021] & SpreadSheets CRUD](https://www.youtube.com/watch?v=7RBMsjgAocs)
-- [Flutter Preview - Google Sheets API 2/3 - Read & Fetch Data [2021] & SpreadSheets CRUD #Shorts](https://www.youtube.com/watch?v=YAE_TXu6egA)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
