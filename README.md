@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Running App On Real Device [2021] In 300 Seconds: VSCode & Android Studio #Shorts](https://www.youtube.com/watch?v=9NrOofyfqjA)
+- [Flutter Tutorial - Running App On Real Device [2021] In 300 Seconds: VSCode & Android Studio](https://www.youtube.com/watch?v=aohkII1C4JY)
 - [Flutter Preview - Flutter Upgrade [2021] In 180 Seconds: Update Flutter SDK To The Latest Ve #Shorts](https://www.youtube.com/watch?v=gurmnsT93Gk)
 - [Flutter Tutorial - Flutter Upgrade [2021] In 180 Seconds: Update Flutter SDK To The Latest Version](https://www.youtube.com/watch?v=0QC7S1nUmpY)
 - [Flutter Preview - Set Screen Background Image [2021] Asset Image & Network Image #Shorts](https://www.youtube.com/watch?v=57ll4leEzAM)
-- [Flutter Tutorial - Set Screen Background Image [2021] Asset Image & Network Image](https://www.youtube.com/watch?v=sDS4c1C-Fdg)
-- [Flutter Preview - Set Screen Background Color In 7 Minutes: Color Hex, Background Color Grad #Shorts](https://www.youtube.com/watch?v=IBtoFFOsEJM)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
