@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - How To Run Flutter Web App On Chrome? [2021] In 120 Seconds #Shorts](https://www.youtube.com/watch?v=XCYSOlOAsi0)
+- [Flutter Tutorial - How To Run Flutter Web App On Chrome? [2021] In 120 Seconds](https://www.youtube.com/watch?v=qbwnylTnYfY)
 - [Flutter Preview - Running App On Simulator [2021] In 2 Minutes: Run On iOS Device #Shorts](https://www.youtube.com/watch?v=z9mCt2VR9DU)
 - [Flutter Tutorial - Running App On Simulator [2021] In 2 Minutes: Run On iOS Device](https://www.youtube.com/watch?v=z3MIW5wq-RY)
 - [Flutter Preview - Running App On Emulator [2021] Run On Android Device #Shorts](https://www.youtube.com/watch?v=1Po3VRd8oFQ)
-- [Flutter Tutorial - Running App On Emulator [2021] Run On Android Device](https://www.youtube.com/watch?v=QjgmTiD8prA)
-- [Flutter Preview - Running App On Real Device [2021] In 300 Seconds: VSCode & Android Studio #Shorts](https://www.youtube.com/watch?v=9NrOofyfqjA)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
