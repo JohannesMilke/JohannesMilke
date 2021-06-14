@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - How To Use Hex Color Codes & RGB Colors & Transparent Colors [2021] #Shorts](https://www.youtube.com/watch?v=5iXcfyVPU3c)
+- [Flutter Tutorial - How To Use Hex Color Codes & RGB Colors & Transparent Colors [2021]](https://www.youtube.com/watch?v=3Fb3bFSOJWA)
 - [Flutter Preview - How To Create A Dotted Border [2021] Dotted Border, Dashed Border, Solid B #Shorts](https://www.youtube.com/watch?v=3qaDLvnZLj8)
 - [Flutter Tutorial - How To Create A Dotted Border [2021] Dotted Border, Dashed Border, Solid Border](https://www.youtube.com/watch?v=lxnfB3mYRfg)
 - [Flutter Preview - Drag And Drop File Upload [2021] Drop Files Into Dropzone #Shorts](https://www.youtube.com/watch?v=Pu2-oFvkqoA)
-- [Flutter Tutorial - Drag And Drop File Upload [2021] Drop Files Into Dropzone](https://www.youtube.com/watch?v=pZdJX3PAydQ)
-- [Flutter Preview - Copy to Clipboard In 60 Seconds [2021] How To Copy Text To Clipboard #Shorts](https://www.youtube.com/watch?v=Y3M9pZCOhhU)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
