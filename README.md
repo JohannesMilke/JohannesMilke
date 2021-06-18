@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - How To Publish Flutter App On Play Store [2021] Build, Release & Deploy Ap #Shorts](https://www.youtube.com/watch?v=agX3a2uPvrw)
+- [Flutter Tutorial - How To Publish Flutter App On Play Store [2021] Build, Release & Deploy App](https://www.youtube.com/watch?v=g0GNuoCOtaQ)
 - [Flutter Preview - Strong Random Password Generator [2021] #Shorts](https://www.youtube.com/watch?v=G3ljZP3SuPc)
 - [Flutter Tutorial - Strong Random Password Generator [2021]](https://www.youtube.com/watch?v=EKnL6S4Bn5Y)
 - [Flutter Preview - How To Create A Random Number [2021] Random Number & Random Data List #Shorts](https://www.youtube.com/watch?v=_JHQZuxiNjo)
-- [Flutter Tutorial - How To Create A Random Number [2021] Random Number & Random Data List](https://www.youtube.com/watch?v=ip_B6mtXbLQ)
-- [Flutter Preview - How To Use Hex Color Codes & RGB Colors & Transparent Colors [2021] #Shorts](https://www.youtube.com/watch?v=5iXcfyVPU3c)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
