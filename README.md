@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Animated Bottom Navigation Bar [2021] Flutter UI #Shorts](https://www.youtube.com/watch?v=YcQDYRZyfs8)
+- [Flutter Tutorial - Animated Bottom Navigation Bar [2021] Flutter UI](https://www.youtube.com/watch?v=95PEDLxEEtg)
 - [Flutter Preview - Scaffold For Beginners: Body, AppBar, Bottom Navigation [2021] Flutter UI #Shorts](https://www.youtube.com/watch?v=SSolw2o8ck4)
 - [Flutter Tutorial - Scaffold For Beginners: Body, AppBar, Bottom Navigation [2021] Flutter UI Widgets](https://www.youtube.com/watch?v=fcakQFrJVFQ)
 - [Flutter Preview - Take Screenshot Of Screen & Widgets [2021] Capture, Save To Gallery, Share #Shorts](https://www.youtube.com/watch?v=josrK5yVvHE)
-- [Flutter Tutorial - Take Screenshot Of Screen & Widgets [2021] Capture, Save To Gallery, Share](https://www.youtube.com/watch?v=rABnaF-Xk3E)
-- [Flutter Preview - How To Publish Flutter App On Play Store [2021] Build, Release & Deploy Ap #Shorts](https://www.youtube.com/watch?v=agX3a2uPvrw)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
