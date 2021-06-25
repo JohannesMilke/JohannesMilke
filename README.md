@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Simple Weather App [2021] For Beginners #Shorts](https://www.youtube.com/watch?v=xMGTlL7GUug)
+- [Flutter Tutorial - Simple Weather App [2021] For Beginners](https://www.youtube.com/watch?v=KARSo1nMxp4)
 - [Flutter Preview - How To Change App Name And App Icon For Flutter Web App [2021]  #Shorts](https://www.youtube.com/watch?v=c1CIcgYsfR0)
 - [Flutter Tutorial - How To Change App Name And App Icon [2021] For Flutter Web App](https://www.youtube.com/watch?v=drAeE4qKjDQ)
 - [Flutter Preview - How To Add SVG Image File [2021] Flutter SVG #Shorts](https://www.youtube.com/watch?v=vEtSB7n9KfY)
-- [Flutter Tutorial - How To Add SVG Image File [2021] Flutter SVG](https://www.youtube.com/watch?v=E3xVcQ0TAHg)
-- [Flutter Preview - Generate Assets & Fonts Automatically [2021] Flutter Gen #Shorts](https://www.youtube.com/watch?v=i_a0GVYX0ss)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
