@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - On Hover Effect & Hover Animations [2021] Flutter Web #Shorts](https://www.youtube.com/watch?v=1g2ldBnPeM4)
+- [Flutter Tutorial - On Hover Effect & Hover Animations [2021] Flutter Web](https://www.youtube.com/watch?v=NqvJEtcQweU)
 - [Flutter Preview - How To Remove Debug Banner? [2021]  #Shorts](https://www.youtube.com/watch?v=rIzEcon5Oes)
 - [Flutter Tutorial - How To Remove Debug Banner? [2021]](https://www.youtube.com/watch?v=FD0xQqQmHZM)
 - [Flutter Preview - Simple Weather App [2021] For Beginners #Shorts](https://www.youtube.com/watch?v=xMGTlL7GUug)
-- [Flutter Tutorial - Simple Weather App [2021] For Beginners](https://www.youtube.com/watch?v=KARSo1nMxp4)
-- [Flutter Preview - How To Change App Name And App Icon For Flutter Web App [2021]  #Shorts](https://www.youtube.com/watch?v=c1CIcgYsfR0)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
