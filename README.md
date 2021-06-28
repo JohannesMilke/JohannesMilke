@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Keyboard Events & Keyboard Listener In Flutter Web [2021] Detect Keypress  #Shorts](https://www.youtube.com/watch?v=U1FAGpBlFrY)
+- [Flutter Tutorial - Keyboard Events & Keyboard Listener In Flutter Web [2021] Detect Keypress Event](https://www.youtube.com/watch?v=5ykfmHhJUu4)
 - [Flutter Preview - On Hover Effect & Hover Animations [2021] Flutter Web #Shorts](https://www.youtube.com/watch?v=1g2ldBnPeM4)
 - [Flutter Tutorial - On Hover Effect & Hover Animations [2021] Flutter Web App](https://www.youtube.com/watch?v=NqvJEtcQweU)
 - [Flutter Preview - How To Remove Debug Banner? [2021]  #Shorts](https://www.youtube.com/watch?v=rIzEcon5Oes)
-- [Flutter Tutorial - How To Remove Debug Banner? [2021]](https://www.youtube.com/watch?v=FD0xQqQmHZM)
-- [Flutter Preview - Simple Weather App [2021] For Beginners #Shorts](https://www.youtube.com/watch?v=xMGTlL7GUug)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
