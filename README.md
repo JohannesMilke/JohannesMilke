@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Awesome Color Picker [2021] #Shorts](https://www.youtube.com/watch?v=WAEYqaqJl0k)
+- [Flutter Tutorial - Awesome Color Picker [2021]](https://www.youtube.com/watch?v=Hum9i9SWXhA)
 - [Flutter Preview - Simple Stopwatch Timer [2021] Countdown & Countup Timer #Shorts](https://www.youtube.com/watch?v=r41VygVfPys)
 - [Flutter Tutorial - Simple Stopwatch Timer [2021] Countdown & Countup Timer](https://www.youtube.com/watch?v=Bw6zc1nncyA)
 - [Flutter Preview - Simple Countdown Timer [2021] With Start, Pause, Cancel #Shorts](https://www.youtube.com/watch?v=3vTh2SdYYg8)
-- [Flutter Tutorial - Simple Countdown Timer [2021] With Start, Pause, Cancel](https://www.youtube.com/watch?v=bjAsnIw3VCs)
-- [Flutter Preview - Page Transition Animation [2021] Route Navigation Transition #Shorts](https://www.youtube.com/watch?v=EToF1q2iL-c)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
