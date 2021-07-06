@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Making An Audio Player App [2021] #Shorts](https://www.youtube.com/watch?v=_PCeCZvT-u8)
+- [Flutter Tutorial - Making An Audio Player App [2021]](https://www.youtube.com/watch?v=-Q5c-E63kfI)
 - [Flutter Preview - Capturing & Playing Audio [2021] Audio Recorder App #Shorts](https://www.youtube.com/watch?v=6QeFGA2uDPw)
 - [Flutter Tutorial - Capturing & Playing Audio [2021] Audio Recorder App](https://www.youtube.com/watch?v=64xJO0urK9E)
 - [Flutter Preview - Awesome Color Picker [2021] #Shorts](https://www.youtube.com/watch?v=WAEYqaqJl0k)
-- [Flutter Tutorial - Awesome Color Picker [2021]](https://www.youtube.com/watch?v=Hum9i9SWXhA)
-- [Flutter Preview - Simple Stopwatch Timer [2021] Countdown & Countup Timer #Shorts](https://www.youtube.com/watch?v=r41VygVfPys)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
