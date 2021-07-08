@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - How To Check Internet Connectivity in Flutter [2021] Wifi & Mobile #Shorts](https://www.youtube.com/watch?v=Amz8Xmr2hqY)
+- [Flutter Tutorial - How To Check Internet Connectivity in Flutter [2021] Wifi & Mobile](https://www.youtube.com/watch?v=ttSuRvs36Bc)
 - [Flutter Preview - Toast Message [2021] A Different SnackBar #Shorts](https://www.youtube.com/watch?v=JG6H8KUUi4c)
 - [Flutter Tutorial - Toast Message [2021] A Different SnackBar](https://www.youtube.com/watch?v=o2tq4RMcAJw)
 - [Flutter Preview - Making An Audio Player App [2021] #Shorts](https://www.youtube.com/watch?v=_PCeCZvT-u8)
-- [Flutter Tutorial - Making An Audio Player App [2021]](https://www.youtube.com/watch?v=-Q5c-E63kfI)
-- [Flutter Preview - Capturing & Playing Audio [2021] Audio Recorder App #Shorts](https://www.youtube.com/watch?v=6QeFGA2uDPw)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
