@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Instagram Like Animation [2021] Instagram Clone UI #Shorts](https://www.youtube.com/watch?v=PLmmWMApIMs)
+- [Flutter Tutorial - Instagram Like Animation [2021] Instagram Clone UI](https://www.youtube.com/watch?v=5k8XFgRtPb4)
 - [Flutter Preview - Animated Love Button [2021] Like Unlike Button #Shorts](https://www.youtube.com/watch?v=kt2FiloNrOU)
 - [Flutter Tutorial - Animated Love Button [2021] Like Unlike Button](https://www.youtube.com/watch?v=FQgk0wlqRsU)
 - [Flutter Preview - How To Fix Unable To Locate ADB [2021] Android Studio Error #Shorts](https://www.youtube.com/watch?v=b9RR2QxqKGs)
-- [Flutter Tutorial - How To Fix Unable To Locate ADB [2021] Android Studio Error](https://www.youtube.com/watch?v=eJlXRQtzdk0)
-- [Flutter Preview - App Settings Page UI [2021] Flutter Settings Screen #Shorts](https://www.youtube.com/watch?v=XiCNXh4jf60)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
