@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - How To Hide Bottom Navigation Bar On Scroll [2021] Hide/Show Animation #Shorts](https://www.youtube.com/watch?v=2MqBA0cla9w)
+- [Flutter Tutorial - How To Hide Bottom Navigation Bar On Scroll [2021] Hide/Show Animation](https://www.youtube.com/watch?v=pr_Go9I19SA)
 - [Flutter Preview - Instagram Like Animation [2021] Instagram Clone UI #Shorts](https://www.youtube.com/watch?v=PLmmWMApIMs)
 - [Flutter Tutorial - Instagram Like Animation [2021] Instagram Clone UI](https://www.youtube.com/watch?v=5k8XFgRtPb4)
 - [Flutter Preview - Animated Love Button [2021] Like Unlike Button #Shorts](https://www.youtube.com/watch?v=kt2FiloNrOU)
-- [Flutter Tutorial - Animated Love Button [2021] Like Unlike Button](https://www.youtube.com/watch?v=FQgk0wlqRsU)
-- [Flutter Preview - How To Fix Unable To Locate ADB [2021] Android Studio Error #Shorts](https://www.youtube.com/watch?v=b9RR2QxqKGs)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
