@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Keep Screen Awake [2021] Wakelock #Shorts](https://www.youtube.com/watch?v=9-y5q4o6wII)
+- [Flutter Tutorial - Keep Screen Awake [2021] Wakelock](https://www.youtube.com/watch?v=HaV8k1m0n28)
 - [Flutter Preview - How To Hide Bottom Navigation Bar On Scroll [2021] Hide/Show Animation #Shorts](https://www.youtube.com/watch?v=2MqBA0cla9w)
 - [Flutter Tutorial - How To Hide Bottom Navigation Bar On Scroll [2021] Hide/Show Animation](https://www.youtube.com/watch?v=pr_Go9I19SA)
 - [Flutter Preview - Instagram Like Animation [2021] Instagram Clone UI #Shorts](https://www.youtube.com/watch?v=PLmmWMApIMs)
-- [Flutter Tutorial - Instagram Like Animation [2021] Instagram Clone UI](https://www.youtube.com/watch?v=5k8XFgRtPb4)
-- [Flutter Preview - Animated Love Button [2021] Like Unlike Button #Shorts](https://www.youtube.com/watch?v=kt2FiloNrOU)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
