@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Bottom Navigation Bar | The Right Way [2021] Without Routes #Shorts](https://www.youtube.com/watch?v=ZrFqFMZVPOo)
+- [Flutter Tutorial - Bottom Navigation Bar | The Right Way [2021] Without Routes](https://www.youtube.com/watch?v=xoKqQjSDZ60)
 - [Flutter Preview - How To Send Email In Background [2021] Without Backend #Shorts](https://www.youtube.com/watch?v=wTotC2p3z3E)
 - [Flutter Tutorial - How To Send Email In Background [2021] Without Backend](https://www.youtube.com/watch?v=RDwst9icjAY)
 - [Flutter Preview - Text Slide Animation [2021] Animated Text #Shorts](https://www.youtube.com/watch?v=asxehbljZMU)
-- [Flutter Tutorial - Text Slide Animation [2021] Animated Text](https://www.youtube.com/watch?v=QayTs_H9QOM)
-- [Flutter Preview - Keep Screen Awake [2021] Wakelock #Shorts](https://www.youtube.com/watch?v=9-y5q4o6wII)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
