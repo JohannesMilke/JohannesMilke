@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Hide/Show Keyboard Programmatically [2021] TextField Focus, Unfocus, Autof #Shorts](https://www.youtube.com/watch?v=qTUoRLLm5ZY)
+- [Flutter Tutorial - Hide/Show Keyboard Programmatically [2021] TextField Focus, Unfocus, Autofocus](https://www.youtube.com/watch?v=MKrEJtheGPk)
 - [Flutter Preview - How To Dismiss The Keyboard [2021] On Tap, On Scroll #Shorts](https://www.youtube.com/watch?v=cp1yNiAvpG4)
 - [Flutter Tutorial - How To Dismiss The Keyboard [2021] On Tap, On Scroll](https://www.youtube.com/watch?v=SftssVoNB5Y)
 - [Flutter Preview - Bottom Navigation Bar | The Right Way [2021] Without Routes #Shorts](https://www.youtube.com/watch?v=ZrFqFMZVPOo)
-- [Flutter Tutorial - Bottom Navigation Bar | The Right Way [2021] Without Routes](https://www.youtube.com/watch?v=xoKqQjSDZ60)
-- [Flutter Preview - How To Send Email In Background [2021] Without Backend #Shorts](https://www.youtube.com/watch?v=wTotC2p3z3E)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
