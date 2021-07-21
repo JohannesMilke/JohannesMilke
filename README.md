@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - How To Create Read More Text / Show More Text Button [2021] #Shorts](https://www.youtube.com/watch?v=5A2JBqhxM0Q)
+- [Flutter Tutorial - How To Create Read More Text / Show More Text Button [2021]](https://www.youtube.com/watch?v=P8vtdeCjYN8)
 - [Flutter Preview - Check If Keyboard Is Opened/Closed [2021] Keyboard Visibility #Shorts](https://www.youtube.com/watch?v=abpCQsWjAw0)
 - [Flutter Tutorial - Check If Keyboard Is Opened/Closed [2021] Keyboard Visibility](https://www.youtube.com/watch?v=Sy2Uge3iGyE)
 - [Flutter Preview - Hide/Show Keyboard Programmatically [2021] TextField Focus, Unfocus, Autof #Shorts](https://www.youtube.com/watch?v=qTUoRLLm5ZY)
-- [Flutter Tutorial - Hide/Show Keyboard Programmatically [2021] TextField Focus, Unfocus, Autofocus](https://www.youtube.com/watch?v=MKrEJtheGPk)
-- [Flutter Preview - How To Dismiss The Keyboard [2021] On Tap, On Scroll #Shorts](https://www.youtube.com/watch?v=cp1yNiAvpG4)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
