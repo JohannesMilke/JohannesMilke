@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - How To Send Email Via URL Launcher [2021] Launch Email #Shorts](https://www.youtube.com/watch?v=6dyHUv5A82s)
+- [Flutter Tutorial - How To Open Default Email App [2021] URL Launcher](https://www.youtube.com/watch?v=UJ8TRGx5gwQ)
 - [Flutter Preview - How To Create Read More Text / Show More Text Button [2021] #Shorts](https://www.youtube.com/watch?v=5A2JBqhxM0Q)
 - [Flutter Tutorial - How To Create Read More Text / Show More Text Button [2021]](https://www.youtube.com/watch?v=P8vtdeCjYN8)
 - [Flutter Preview - Check If Keyboard Is Opened/Closed [2021] Keyboard Visibility #Shorts](https://www.youtube.com/watch?v=abpCQsWjAw0)
-- [Flutter Tutorial - Check If Keyboard Is Opened/Closed [2021] Keyboard Visibility](https://www.youtube.com/watch?v=Sy2Uge3iGyE)
-- [Flutter Preview - Hide/Show Keyboard Programmatically [2021] TextField Focus, Unfocus, Autof #Shorts](https://www.youtube.com/watch?v=qTUoRLLm5ZY)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
