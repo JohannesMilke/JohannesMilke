@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - In App Purchases & Subscriptions [2021] Revenue Cat #Shorts](https://www.youtube.com/watch?v=W6-h7piJxoY)
+- [Flutter Tutorial - In App Purchases & Subscriptions [2021] Revenue Cat](https://www.youtube.com/watch?v=h-jOMh2KXTA)
 - [Flutter Preview - How To Make Direct Phone Calls? [2021] Call Phone Number #Shorts](https://www.youtube.com/watch?v=2VLeRaVMpYk)
 - [Flutter Tutorial - How To Make Direct Phone Calls? [2021] Call Phone Number](https://www.youtube.com/watch?v=mZkNrGBlFa0)
 - [Flutter Preview - How To Send Email Via URL Launcher [2021] Launch Email #Shorts](https://www.youtube.com/watch?v=6dyHUv5A82s)
-- [Flutter Tutorial - How To Open Default Email App [2021] URL Launcher](https://www.youtube.com/watch?v=UJ8TRGx5gwQ)
-- [Flutter Preview - How To Create Read More Text / Show More Text Button [2021] #Shorts](https://www.youtube.com/watch?v=5A2JBqhxM0Q)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
