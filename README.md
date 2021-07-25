@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Fastest Way To Send Email From Flutter App [2021] With HTTP & Without Back #Shorts](https://www.youtube.com/watch?v=hj7yFkVMF3U)
+- [Flutter Tutorial - Fastest Way To Send Email From Flutter App [2021] In Background With HTTP](https://www.youtube.com/watch?v=9HW3MZ_tsdo)
 - [Flutter Preview - In App Purchases & Subscriptions [2021] Revenue Cat #Shorts](https://www.youtube.com/watch?v=W6-h7piJxoY)
 - [Flutter Tutorial - In App Purchases & Subscriptions [2021] Revenue Cat](https://www.youtube.com/watch?v=h-jOMh2KXTA)
 - [Flutter Preview - How To Make Direct Phone Calls? [2021] Call Phone Number #Shorts](https://www.youtube.com/watch?v=2VLeRaVMpYk)
-- [Flutter Tutorial - How To Make Direct Phone Calls? [2021] Call Phone Number](https://www.youtube.com/watch?v=mZkNrGBlFa0)
-- [Flutter Preview - How To Send Email Via URL Launcher [2021] Launch Email #Shorts](https://www.youtube.com/watch?v=6dyHUv5A82s)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
