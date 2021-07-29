@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Customize Local Push Notifications [2021] Background, Custom Sound, No Sou #Shorts](https://www.youtube.com/watch?v=8qjGlZihbHg)
+- [Flutter Tutorial - Customize Local Push Notifications 2/2 [2021] Background, Custom Sound, No Sound](https://www.youtube.com/watch?v=X3tAGnGc_t0)
 - [Flutter Preview - Local Push Notifications [2021] Android & iOS #Shorts](https://www.youtube.com/watch?v=nH21CPSWdso)
-- [Flutter Tutorial - Local Push Notifications [2021] Android & iOS](https://www.youtube.com/watch?v=bRy5dmts3X8)
+- [Flutter Tutorial - Local Push Notifications 1/2 [2021] Android & iOS](https://www.youtube.com/watch?v=bRy5dmts3X8)
 - [Flutter Preview - Passing Data Between Screens & Widgets [2021] Stateful & Stateless Widgets #Shorts](https://www.youtube.com/watch?v=OchGCggAYkc)
-- [Flutter Tutorial - Passing Data Between Screens & Widgets [2021] Stateful & Stateless Widgets](https://www.youtube.com/watch?v=l3KnuUmlr-w)
-- [Flutter Preview - Press Back Button Again To Exit App [2021] WillPopScope Widget #Shorts](https://www.youtube.com/watch?v=l5UVfQKhySk)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
