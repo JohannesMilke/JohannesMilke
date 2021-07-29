@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Local Push Notifications [2021] Android & iOS #Shorts](https://www.youtube.com/watch?v=nH21CPSWdso)
+- [Flutter Tutorial - Local Push Notifications [2021] Android & iOS](https://www.youtube.com/watch?v=bRy5dmts3X8)
 - [Flutter Preview - Passing Data Between Screens & Widgets [2021] Stateful & Stateless Widgets #Shorts](https://www.youtube.com/watch?v=OchGCggAYkc)
 - [Flutter Tutorial - Passing Data Between Screens & Widgets [2021] Stateful & Stateless Widgets](https://www.youtube.com/watch?v=l3KnuUmlr-w)
 - [Flutter Preview - Press Back Button Again To Exit App [2021] WillPopScope Widget #Shorts](https://www.youtube.com/watch?v=l5UVfQKhySk)
-- [Flutter Tutorial - Press Back Button Again To Exit App [2021] WillPopScope Widget](https://www.youtube.com/watch?v=h-4triVsxEs)
-- [Flutter Preview - Fastest Way To Send Email From Flutter App [2021] With HTTP & Without Back #Shorts](https://www.youtube.com/watch?v=hj7yFkVMF3U)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
