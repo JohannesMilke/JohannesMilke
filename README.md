@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - How To Record Screen On iOS Simulator [2021] Mp4 Video, GIF, Screenshot #Shorts](https://www.youtube.com/watch?v=1LMxdCsyY6o)
+- [Flutter Tutorial - How To Record Screen On iOS Simulator [2021] Mp4 Video, GIF, Screenshot](https://www.youtube.com/watch?v=SG8CiS5rKV8)
 - [Flutter Preview - How To Show/Hide AppBar On Scroll [2021] Collapsing Toolbar & Sliver App B #Shorts](https://www.youtube.com/watch?v=leT4DyI2gZ8)
 - [Flutter Tutorial - How To Show/Hide AppBar On Scroll [2021] Collapsing Toolbar & Sliver App Bar](https://www.youtube.com/watch?v=xzPXqQ-Pe2g)
 - [Flutter Preview - Customize Local Push Notifications [2021] Background, Custom Sound, No Sou #Shorts](https://www.youtube.com/watch?v=8qjGlZihbHg)
-- [Flutter Tutorial - Customize Local Push Notifications 2/2 [2021] Background, Custom Sound, No Sound](https://www.youtube.com/watch?v=X3tAGnGc_t0)
-- [Flutter Preview - Local Push Notifications [2021] Android & iOS #Shorts](https://www.youtube.com/watch?v=nH21CPSWdso)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
