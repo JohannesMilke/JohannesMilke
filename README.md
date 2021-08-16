@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - How To Add Cupertino Segmented Control | SwiftUI in Flutter [2021] #Shorts](https://www.youtube.com/watch?v=eSzJgjzdiio)
+- [Flutter Tutorial - How To Add Cupertino Segmented Control | SwiftUI in Flutter [2021]](https://www.youtube.com/watch?v=sHHY_Wblqng)
 - [Flutter Preview - Create Custom iOS Styled Buttons | SwiftUI in Flutter [2021] Cupertino But #Shorts](https://www.youtube.com/watch?v=X1JWck3Z9dM)
 - [Flutter Tutorial - Create Custom iOS Styled Buttons | SwiftUI in Flutter [2021] Cupertino Button](https://www.youtube.com/watch?v=EQtXWemnMoQ)
 - [Flutter Preview - How To Run App On Real iOS Device/iPhone [2021] Screen Mirroring Flutter A #Shorts](https://www.youtube.com/watch?v=iYDUJdlwwgc)
-- [Flutter Tutorial - How To Run App On Real iOS Device/iPhone [2021] Screen Mirroring Flutter App](https://www.youtube.com/watch?v=AYNhO9dcbBI)
-- [Flutter Preview - Handle Back Button Pressed [2021] WillPopScope Widget #Shorts](https://www.youtube.com/watch?v=AQ-bZz7Osto)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
