@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview -  iOS Navigation Bar: Add Large Titles | SwiftUI [2021] Cupertino Navigatio #Shorts](https://www.youtube.com/watch?v=jD4EF5cBR0c)
+- [Flutter Tutorial -  iOS Navigation Bar: Add Large Titles | SwiftUI [2021] Cupertino Navigation Bar](https://www.youtube.com/watch?v=2M7LidCj_q0)
 - [Flutter Preview - How To Add Cupertino Segmented Control | SwiftUI in Flutter [2021] #Shorts](https://www.youtube.com/watch?v=eSzJgjzdiio)
 - [Flutter Tutorial - How To Add Cupertino Segmented Control | SwiftUI in Flutter [2021]](https://www.youtube.com/watch?v=sHHY_Wblqng)
 - [Flutter Preview - Create Custom iOS Styled Buttons | SwiftUI in Flutter [2021] Cupertino But #Shorts](https://www.youtube.com/watch?v=X1JWck3Z9dM)
-- [Flutter Tutorial - Create Custom iOS Styled Buttons | SwiftUI in Flutter [2021] Cupertino Button](https://www.youtube.com/watch?v=EQtXWemnMoQ)
-- [Flutter Preview - How To Run App On Real iOS Device/iPhone [2021] Screen Mirroring Flutter A #Shorts](https://www.youtube.com/watch?v=iYDUJdlwwgc)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
