@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Create iOS Sliding Segmented Control [2021] Cupertino Package #Shorts](https://www.youtube.com/watch?v=_Y-rJz6olIw)
+- [Flutter Tutorial - Create iOS Sliding Segmented Control [2021] Cupertino Package](https://www.youtube.com/watch?v=J2vqfoX7cDo)
 - [Flutter Preview - Prevent Screenshots and Screen Recordings [2021]  #Shorts](https://www.youtube.com/watch?v=NDwYPozNAH4)
 - [Flutter Tutorial - Prevent Screenshots and Screen Recordings [2021]](https://www.youtube.com/watch?v=yil6EE2Fivo)
 - [Flutter Preview - Cupertino Picker | SwiftUI In Flutter [2021] iOS Picker Views #Shorts](https://www.youtube.com/watch?v=jyevy92SqcQ)
-- [Flutter Tutorial - Cupertino Picker | SwiftUI In Flutter [2021] iOS Picker Views](https://www.youtube.com/watch?v=2hW_4-l3kfg)
-- [Flutter Preview - Show iOS Alert Dialog [2021] Cupertino Alert Dialog, Popup Dialog #Shorts](https://www.youtube.com/watch?v=kBwEa-A6SRQ)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
