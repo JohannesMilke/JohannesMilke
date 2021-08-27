@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Desktop Drag and Drop Files [2021] Drop Files Into Dropzone #Shorts](https://www.youtube.com/watch?v=qTmAcm8M-oQ)
+- [Flutter Tutorial - Desktop Drag and Drop Files [2021] Drop Files Into Dropzone](https://www.youtube.com/watch?v=uYYlVx1W4Rs)
 - [Flutter Preview - Amazing Lottie Animations [2021] Android, iOS, Flutter Web #Shorts](https://www.youtube.com/watch?v=GV7GqrU-AWY)
 - [Flutter Tutorial - Amazing Lottie Animations [2021] Android, iOS, Flutter Web](https://www.youtube.com/watch?v=kyPizhfn8k8)
 - [Flutter Preview - Scroll To Index/Item In ListView [2021] In 120 Seconds #Shorts](https://www.youtube.com/watch?v=_yZ5SVWBLQo)
-- [Flutter Tutorial - Scroll To Index/Item In ListView [2021] In 120 Seconds](https://www.youtube.com/watch?v=dQUenkI7gM8)
-- [Flutter Preview - Create iOS Sliding Segmented Control [2021] Cupertino Package #Shorts](https://www.youtube.com/watch?v=_Y-rJz6olIw)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
