@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - How To Create And Validate Cupertino Forms [2021] Cupertino TextField Vali #Shorts](https://www.youtube.com/watch?v=yMD59tGBKeU)
+- [Flutter Tutorial - How To Create And Validate Cupertino Forms [2021] Cupertino TextField Validation](https://www.youtube.com/watch?v=JuosAl-8g7M)
 - [Flutter Preview - Create iOS Cupertino TextField | SwiftUI in Flutter [2021]  #Shorts](https://www.youtube.com/watch?v=xfG5guSvwI0)
 - [Flutter Tutorial - Create iOS Cupertino TextField | SwiftUI in Flutter [2021]](https://www.youtube.com/watch?v=727ZfwEqBaU)
 - [Flutter Preview - Desktop Drag and Drop Files [2021] Drop Files Into Dropzone #Shorts](https://www.youtube.com/watch?v=qTmAcm8M-oQ)
-- [Flutter Tutorial - Desktop Drag and Drop Files [2021] Drop Files Into Dropzone](https://www.youtube.com/watch?v=uYYlVx1W4Rs)
-- [Flutter Preview - Amazing Lottie Animations [2021] Android, iOS, Flutter Web #Shorts](https://www.youtube.com/watch?v=GV7GqrU-AWY)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
