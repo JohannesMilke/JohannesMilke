@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Amazing Hero Animations | ListView [2021] Hero Widget #Shorts](https://www.youtube.com/watch?v=bsELeAn8sss)
+- [Flutter Tutorial - Amazing Hero Animations | ListView [2021] Hero Widget](https://www.youtube.com/watch?v=GsmP-NzXXa0)
 - [Flutter Preview - Navigation Drawer Animation [2021] Sidebar Animation & Hidden Drawer Anima #Shorts](https://www.youtube.com/watch?v=LaW799BAJXE)
 - [Flutter Tutorial - Navigation Drawer Animation [2021] Sidebar Animation & Hidden Drawer Animation](https://www.youtube.com/watch?v=Evu19gTKaFo)
 - [Flutter Preview - How To Create And Validate Cupertino Forms [2021] Cupertino TextField Vali #Shorts](https://www.youtube.com/watch?v=yMD59tGBKeU)
-- [Flutter Tutorial - How To Create And Validate Cupertino Forms [2021] Cupertino TextField Validation](https://www.youtube.com/watch?v=JuosAl-8g7M)
-- [Flutter Preview - Create iOS Cupertino TextField | SwiftUI in Flutter [2021]  #Shorts](https://www.youtube.com/watch?v=xfG5guSvwI0)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
