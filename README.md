@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - WebView App | Controller [2021] 3/3 Refresh, Cache, Back Button #Shorts](https://www.youtube.com/watch?v=39vJAS6fezE)
+- [Flutter Tutorial - WebView App Controller [2021] 3/3 Refresh, Cache, Back Button, Loading Indicator](https://www.youtube.com/watch?v=5R3ehXV-oog)
 - [Flutter Preview - WebView App | Local HTML, CSS, Javascript [2021] 2/3  #Shorts](https://www.youtube.com/watch?v=OuzoKSQy4Nc)
 - [Flutter Tutorial - WebView App | Local HTML, CSS, Javascript [2021] 2/3](https://www.youtube.com/watch?v=SyDo0GqBVYU)
 - [Flutter Preview - WebView App | The Right Way [2021] 1/2 Load URL, HTML, Javascript - Androi #Shorts](https://www.youtube.com/watch?v=EBEZND6NQTQ)
-- [Flutter Tutorial - WebView App | The Right Way [2021] 1/2 Load URL, HTML, Javascript - Android, iOS](https://www.youtube.com/watch?v=LyAwnwvbBKM)
-- [Flutter Preview - Create App Shortcuts For Home Screen [2021] Quick Actions For iOS & Androi #Shorts](https://www.youtube.com/watch?v=2wEzdlG7jtc)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
