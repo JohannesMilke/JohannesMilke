@@ -47,7 +47,7 @@
 - [Flutter Preview - Share File, Image, Text, URL | The Right Way [2021] WhatsApp, Facebook, In #Shorts](https://www.youtube.com/watch?v=tpGnek2qSeE)
 - [Flutter Tutorial - Share File, Image, Text, URL | The Right Way [2021] WhatsApp, Facebook, Instagram](https://www.youtube.com/watch?v=CNUBhb_cM6E)
 - [Flutter Preview - How To Use Material Banner Widget [2021] Scaffold Messenger #Shorts](https://www.youtube.com/watch?v=5vB5yvA_zZY)
-- [Flutter Tutorial - How To Use Material Banner Widget [2021] Scaffold Messenger](https://www.youtube.com/watch?v=WXmvbsEhMWk)
+- [Flutter 2.5 Tutorial - How To Use Material Banner Widget [2021] Scaffold Messenger](https://www.youtube.com/watch?v=WXmvbsEhMWk)
 - [Flutter Preview - How To Use Stepper Widget | The Right Way [2021] Multi-Step Forms #Shorts](https://www.youtube.com/watch?v=I0pZ5nSnojo)
 <!-- YOUTUBE:END -->
 
