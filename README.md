@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Hide Status Bar, Navigation Bar | Android Full Screen [2021] Immersive Mod #Shorts](https://www.youtube.com/watch?v=bSNQLB6jtzY)
+- [Flutter 2.5 Tutorial - Hide Status Bar, Navigation Bar | Android Full Screen [2021] Immersive Mode](https://www.youtube.com/watch?v=X_hQijCqaKA)
 - [Flutter Preview - Add Share Buttons | Web + Mobile [2021] WhatsApp, Facebook, Twitter, Insta #Shorts](https://www.youtube.com/watch?v=p-KqBFaOvg8)
 - [Flutter Tutorial - Create Social Share Buttons | Share Text, Link [2021] WhatsApp, Facebook, Twitter](https://www.youtube.com/watch?v=bWehAFTFc9o)
 - [Flutter Preview - Share File, Image, Text, URL | The Right Way [2021] WhatsApp, Facebook, In #Shorts](https://www.youtube.com/watch?v=tpGnek2qSeE)
-- [Flutter Tutorial - Share File, Image, Text, URL | The Right Way [2021] WhatsApp, Facebook, Instagram](https://www.youtube.com/watch?v=CNUBhb_cM6E)
-- [Flutter Preview - How To Use Material Banner Widget [2021] Scaffold Messenger #Shorts](https://www.youtube.com/watch?v=5vB5yvA_zZY)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
