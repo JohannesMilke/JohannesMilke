@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - User Profile Page UI With Profile Picture [2021] CircleAvatar, Stack, Posi #Shorts](https://www.youtube.com/watch?v=LVMDy2VKD9s)
+- [Flutter Tutorial - User Profile Page UI With Profile Picture [2021] CircleAvatar, Stack, Positioned](https://www.youtube.com/watch?v=X95-2wES1II)
 - [Flutter Preview - LinearGradient Background For Button, Text, Container, AppBar [2021] In 5  #Shorts](https://www.youtube.com/watch?v=TLYqgxxI4us)
 - [Flutter Tutorial - LinearGradient Background For Button, Text, Container, AppBar [2021] In 5 Minutes](https://www.youtube.com/watch?v=G25KbwKMy_U)
 - [Flutter Preview - Create Button With Loading Spinner [2021] Animated Progress Button #Shorts](https://www.youtube.com/watch?v=-PA25kReExo)
-- [Flutter Tutorial - Create Button With Loading Spinner [2021] Animated Progress Button](https://www.youtube.com/watch?v=dOEKnNTRdq0)
-- [Flutter Preview - Show/Hide Widgets in Flutter | Visibility Widget [2021] In 60 Seconds #Shorts](https://www.youtube.com/watch?v=W995Vxl1OcU)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
