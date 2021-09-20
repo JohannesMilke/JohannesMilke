@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Hide/Show AppBar & FAB On Scroll [2021] Collapse Toolbar & Floating Action #Shorts](https://www.youtube.com/watch?v=Zie2GGPWDeY)
+- [Flutter Tutorial - Hide/Show AppBar & FAB On Scroll [2021] Collapse Toolbar & Floating Action Button](https://www.youtube.com/watch?v=Zs3D6vs7h-k)
 - [Flutter Preview - How To Expand Multiple Floating Action Buttons [2021] Speed Dial Menu Anim #Shorts](https://www.youtube.com/watch?v=4xU-fJVjlDg)
 - [Flutter Tutorial - How To Expand Multiple Floating Action Buttons [2021] Speed Dial Menu Animations](https://www.youtube.com/watch?v=YHNCYfqGrBY)
 - [Flutter Preview - User Profile Page UI With Profile Picture [2021] CircleAvatar, Stack, Posi #Shorts](https://www.youtube.com/watch?v=LVMDy2VKD9s)
-- [Flutter Tutorial - User Profile Page UI With Profile Picture [2021] CircleAvatar, Stack, Positioned](https://www.youtube.com/watch?v=X95-2wES1II)
-- [Flutter Preview - LinearGradient Background For Button, Text, Container, AppBar [2021] In 5  #Shorts](https://www.youtube.com/watch?v=TLYqgxxI4us)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
