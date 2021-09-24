@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Animated Curved Navigation Bar | The Right Way [2021] Bottom Navigation Ba #Shorts](https://www.youtube.com/watch?v=jACK2TvS_ik)
+- [Flutter Tutorial - Animated Curved Navigation Bar | The Right Way [2021] Bottom Navigation Bar](https://www.youtube.com/watch?v=TX2x41h47fE)
 - [Flutter Preview - How To Add Images From Assets/Network URL [2021] Square, Rounded, Circle I #Shorts](https://www.youtube.com/watch?v=bfE5CB99dFk)
 - [Flutter Tutorial - How To Add Images From Assets/Network URL [2021] Square, Rounded, Circle Images](https://www.youtube.com/watch?v=Aaci7TrUuzQ)
 - [Flutter Preview - Awesome 3D ListView Scrolling | ListWheelScrollView [2021] 3D Rotating Car #Shorts](https://www.youtube.com/watch?v=cfZhzuZf8lo)
-- [Flutter Tutorial - Awesome 3D ListView Scrolling | ListWheelScrollView [2021] 3D Rotating Card List](https://www.youtube.com/watch?v=wnTYKJEJ7f4)
-- [Flutter Preview - How To Create Horizontal ListView | Scrollable Row [2021] Cards, Text, Ima #Shorts](https://www.youtube.com/watch?v=QQCK5aoxCAY)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
