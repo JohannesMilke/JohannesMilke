@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - How To Use Navigator To Remove Routes [2021] Pop All, Pop Replace, Pop Unt #Shorts](https://www.youtube.com/watch?v=ytRkzF427jc)
+- [Flutter Tutorial - How To Use Navigator To Remove Routes [2021] Pop All, Pop Replace, Pop Until](https://www.youtube.com/watch?v=5YOHRYi2wHM)
 - [Flutter Preview - Animated Curved Navigation Bar | The Right Way [2021] Bottom Navigation Ba #Shorts](https://www.youtube.com/watch?v=jACK2TvS_ik)
 - [Flutter Tutorial - Animated Curved Navigation Bar | The Right Way [2021] Bottom Navigation Bar](https://www.youtube.com/watch?v=TX2x41h47fE)
 - [Flutter Preview - How To Add Images From Assets/Network URL [2021] Square, Rounded, Circle I #Shorts](https://www.youtube.com/watch?v=bfE5CB99dFk)
-- [Flutter Tutorial - How To Add Images From Assets/Network URL [2021] Square, Rounded, Circle Images](https://www.youtube.com/watch?v=Aaci7TrUuzQ)
-- [Flutter Preview - Awesome 3D ListView Scrolling | ListWheelScrollView [2021] 3D Rotating Car #Shorts](https://www.youtube.com/watch?v=cfZhzuZf8lo)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
