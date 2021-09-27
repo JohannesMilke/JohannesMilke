@@ -9,7 +9,7 @@
 - 🔭 &ensp;I’m currently working on [**Youtube**][youtube]!
 - 🌱 &ensp;I’m currently learning Flutter ❤️
 - 👯 &ensp;I’m looking to collaborate with other content creators
-- 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 3 years
+- 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 4 years
 - ⚡ &ensp;Fun fact: I love reading & podcasts
 - 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
 
