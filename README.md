@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - How To Use NEW Material You Navigation Bar | The New Way [2021]  #Shorts](https://www.youtube.com/watch?v=MsULBImDpQM)
+- [Flutter Tutorial - How To Use NEW Material You Navigation Bar | The New Way [2021]](https://www.youtube.com/watch?v=2emB2VFrRnA)
 - [Flutter Preview - How To Overlay Widgets On Top | The Right Way [2021] Scrolling Overlay Wid #Shorts](https://www.youtube.com/watch?v=tLke7_EfKdY)
 - [Flutter Tutorial - How To Overlay Widgets On Top | The Right Way [2021] Scrolling Overlay Widget](https://www.youtube.com/watch?v=OOEyJ0ct0Sg)
 - [Flutter Preview - Awesome Floating Overlay Widget [2021] Float Widget On Top Of Other Widget #Shorts](https://www.youtube.com/watch?v=rCzwn_3VkBM)
-- [Flutter Tutorial - Awesome Floating Overlay Widget [2021] Float Widget On Top Of Other Widgets](https://www.youtube.com/watch?v=fhkaDua0rhE)
-- [Flutter Preview - How To Use Navigator To Remove Routes [2021] Pop All, Pop Replace, Pop Unt #Shorts](https://www.youtube.com/watch?v=ytRkzF427jc)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
