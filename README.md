@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - How To Pinch To Zoom An Image | The Right Way [2021] Zoom In/Out Images #Shorts](https://www.youtube.com/watch?v=ATqRQi7uo8I)
+- [Flutter Tutorial - How To Pinch To Zoom An Image | The Right Way [2021] Zoom In/Out Images](https://www.youtube.com/watch?v=QPhyTzPqZ5Q)
 - [Flutter Preview - How To Zoom Image On Double Tap | Interactive Viewer [2021] Zoom In/Out  #Shorts](https://www.youtube.com/watch?v=mGDvzfYSV68)
 - [Flutter Tutorial - How To Zoom Image On Double Tap | Interactive Viewer [2021] Zoom In/Out Images](https://www.youtube.com/watch?v=44mPHuqPgTU)
 - [Flutter Preview - Drag 3D Flipping Card With Different Back And Front Cards [2021] GestureDe #Shorts](https://www.youtube.com/watch?v=RHKur4-Yjz4)
-- [Flutter Tutorial - Drag 3D Flipping Card With Different Back And Front Cards [2021] GestureDetector](https://www.youtube.com/watch?v=uQw5WrX_MQY)
-- [Flutter Preview - Animate 3D Flipping Card With Different Back And Front [2021] Transform An #Shorts](https://www.youtube.com/watch?v=KJkaAkN1fGo)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
