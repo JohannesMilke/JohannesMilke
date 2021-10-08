@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - How To Use URL Launcher [2021] Open URL In Web Browser / In App WebView #Shorts](https://www.youtube.com/watch?v=4n1YwgZBFCM)
+- [Flutter Tutorial - How To Use URL Launcher [2021] Open URL In Web Browser / In App WebView](https://www.youtube.com/watch?v=T0qbFgbFhg0)
 - [Flutter Preview - Open App Settings On Android & iOS [2021] Location, Notification, Bluetoot #Shorts](https://www.youtube.com/watch?v=czRjHwlxK9I)
 - [Flutter Tutorial - Open App Settings On Android & iOS [2021] Location, Notification, Bluetooth, WIFI](https://www.youtube.com/watch?v=0Q1YrMGqo64)
 - [Flutter Preview - How To Download & Open ANY File | PDF, Image, Video, Music [2021] Open Fil #Shorts](https://www.youtube.com/watch?v=wY4czqdb12o)
-- [Flutter Tutorial - How To Download & Open ANY File | PDF, Image, Video, Music [2021] Open File Path](https://www.youtube.com/watch?v=6tfBflFUO7s)
-- [Flutter Preview - How To Use File Picker | The Right Way [2021] Android, iOS, Web & Desktop #Shorts](https://www.youtube.com/watch?v=UwBLMUBsuS8)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
