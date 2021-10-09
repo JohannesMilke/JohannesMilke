@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - How To Open App In Play Store / App Store [2021] Android & iOS #Shorts](https://www.youtube.com/watch?v=o4Xoe2AuVpw)
+- [Flutter Tutorial - How To Open App In Play Store / App Store [2021] Android & iOS](https://www.youtube.com/watch?v=MYIPz71j7yc)
 - [Flutter Preview - How To Use URL Launcher [2021] Open URL In Web Browser / In App WebView #Shorts](https://www.youtube.com/watch?v=4n1YwgZBFCM)
 - [Flutter Tutorial - How To Use URL Launcher [2021] Open URL In Web Browser / In App WebView](https://www.youtube.com/watch?v=T0qbFgbFhg0)
 - [Flutter Preview - Open App Settings On Android & iOS [2021] Location, Notification, Bluetoot #Shorts](https://www.youtube.com/watch?v=czRjHwlxK9I)
-- [Flutter Tutorial - Open App Settings On Android & iOS [2021] Location, Notification, Bluetooth, WIFI](https://www.youtube.com/watch?v=0Q1YrMGqo64)
-- [Flutter Preview - How To Download & Open ANY File | PDF, Image, Video, Music [2021] Open Fil #Shorts](https://www.youtube.com/watch?v=wY4czqdb12o)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
