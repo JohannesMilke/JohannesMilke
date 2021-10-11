@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - The Magical Link Widget [2021] Open URL With Clickable Link For Button/Tex #Shorts](https://www.youtube.com/watch?v=r4P7DNSuV2k)
+- [Flutter Tutorial - The Magical Link Widget [2021] Open URL With Clickable Link For Button/Text](https://www.youtube.com/watch?v=cSR34CNXLvo)
 - [Flutter Preview - Show Flutter Logs Even If App Is Closed And NOT Connected [2021] Flutter L #Shorts](https://www.youtube.com/watch?v=IxmRfGqegzc)
 - [Flutter Tutorial - Show Flutter Logs Even If App Is Closed And NOT Connected [2021] Flutter Logging](https://www.youtube.com/watch?v=eKinhlKMVCI)
 - [Flutter Preview - How To Open App In Play Store / App Store [2021] Android & iOS #Shorts](https://www.youtube.com/watch?v=o4Xoe2AuVpw)
-- [Flutter Tutorial - How To Open App In Play Store / App Store [2021] Android & iOS](https://www.youtube.com/watch?v=MYIPz71j7yc)
-- [Flutter Preview - How To Use URL Launcher [2021] Open URL In Web Browser / In App WebView #Shorts](https://www.youtube.com/watch?v=4n1YwgZBFCM)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
