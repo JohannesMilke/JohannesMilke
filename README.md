@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - How To Remove # Hash Symbol From URL | Flutter Web [2021] Debug & Release  #Shorts](https://www.youtube.com/watch?v=OEabnovMfBk)
+- [Flutter Tutorial - How To Remove # Hash Symbol From URL | Flutter Web [2021] Debug & Release Mode](https://www.youtube.com/watch?v=D5o0oC2_J80)
 - [Flutter Preview - How To Create New Flutter Buttons | The Right Way [2021] In 5 Minutes #Shorts](https://www.youtube.com/watch?v=IS2ehpU-row)
 - [Flutter Tutorial - How To Create New Flutter Buttons | The Right Way [2021] In 5 Minutes](https://www.youtube.com/watch?v=wvhkomzr0dU)
 - [Flutter Preview - The Magical Link Widget [2021] Open URL With Clickable Link For Button/Tex #Shorts](https://www.youtube.com/watch?v=r4P7DNSuV2k)
-- [Flutter Tutorial - The Magical Link Widget [2021] Open URL With Clickable Link For Button/Text](https://www.youtube.com/watch?v=cSR34CNXLvo)
-- [Flutter Preview - Show Flutter Logs Even If App Is Closed And NOT Connected [2021] Flutter L #Shorts](https://www.youtube.com/watch?v=IxmRfGqegzc)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
