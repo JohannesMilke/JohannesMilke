@@ -47,7 +47,7 @@
 - [Flutter Preview - Convert Widget To Image | The Simple Way [2021] #Shorts](https://www.youtube.com/watch?v=8ORdaYynaQs)
 - [Flutter Tutorial - Convert Widget To Image | The Simple Way [2021]](https://www.youtube.com/watch?v=x2mg9q7_yzY)
 - [Flutter Preview - How To Remove # Hash Symbol From URL | Flutter Web [2021] Debug & Release  #Shorts](https://www.youtube.com/watch?v=OEabnovMfBk)
-- [Flutter Tutorial - How To Remove # Hash Symbol From URL | Flutter Web [2021] Debug & Release Mode](https://www.youtube.com/watch?v=D5o0oC2_J80)
+- [Flutter Tutorial - How To Remove # Hash Symbol From URL | Flutter Web [2021] Debug & Production](https://www.youtube.com/watch?v=D5o0oC2_J80)
 - [Flutter Preview - How To Create New Flutter Buttons | The Right Way [2021] In 5 Minutes #Shorts](https://www.youtube.com/watch?v=IS2ehpU-row)
 <!-- YOUTUBE:END -->
 
