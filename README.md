@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Tinder Swipe Cards | The Right Way [2021] 2/2 Flutter Dating App UI #Shorts](https://www.youtube.com/watch?v=btl05z7yEBI)
+- [Flutter Tutorial - Tinder Swipe Cards | The Right Way [2021] 2/2 Flutter Dating App UI](https://www.youtube.com/watch?v=BniNWBF8NH8)
 - [Flutter Preview - Tinder Swipe Cards | The Right Way [2021] 1/2 Flutter Dating App UI #Shorts](https://www.youtube.com/watch?v=YCrirVonMRU)
 - [Flutter Tutorial - Tinder Swipe Cards | The Right Way [2021] 1/2 Flutter Dating App](https://www.youtube.com/watch?v=9dHiV9SYidE)
 - [Flutter Preview - Build A Simple TINDER Clone [2021] 1/3 Flutter Dating App UI #Shorts](https://www.youtube.com/watch?v=13dIf1--GsA)
-- [Flutter Tutorial - Build A Simple TINDER App Clone [2021] 1/3 Flutter Dating App UI](https://www.youtube.com/watch?v=KMFIhx3PgC8)
-- [Flutter Preview - Change Elevated Button Color On Tap [2021]  #Shorts](https://www.youtube.com/watch?v=DJNRH9ufah4)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
