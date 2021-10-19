@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - How To Call Android Native Code [2021] 1/2 Java & Kotlin Platform Specific #Shorts](https://www.youtube.com/watch?v=ClcFidK0MKI)
+- [Flutter Tutorial - How To Call Android Native Code [2021] 1/2 Java & Kotlin Platform Specific Code](https://www.youtube.com/watch?v=j0cy_Z6IG_c)
 - [Flutter Preview - Tinder Swipe Cards | The Right Way [2021] 2/2 Flutter Dating App UI #Shorts](https://www.youtube.com/watch?v=btl05z7yEBI)
 - [Flutter Tutorial - Tinder Swipe Cards | The Right Way [2021] 2/2 Flutter Dating App UI](https://www.youtube.com/watch?v=BniNWBF8NH8)
 - [Flutter Preview - Tinder Swipe Cards | The Right Way [2021] 1/2 Flutter Dating App UI #Shorts](https://www.youtube.com/watch?v=YCrirVonMRU)
-- [Flutter Tutorial - Tinder Swipe Cards | The Right Way [2021] 1/2 Flutter Dating App](https://www.youtube.com/watch?v=9dHiV9SYidE)
-- [Flutter Preview - Build A Simple TINDER Clone [2021] 1/3 Flutter Dating App UI #Shorts](https://www.youtube.com/watch?v=13dIf1--GsA)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
