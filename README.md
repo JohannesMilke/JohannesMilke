@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Simple Photo Gallery App [2021] Zoom Images, Image Slider #Shorts](https://www.youtube.com/watch?v=20GUNxzpX10)
+- [Flutter Tutorial - Simple Photo Gallery App [2021] Zoom Images, Image Slider](https://www.youtube.com/watch?v=ccWy2BdYwPo)
 - [Flutter Preview - Awesome Page Route Transitions | The Simple Way [2021] #Shorts](https://www.youtube.com/watch?v=dFNS2fuQ-S8)
 - [Flutter Tutorial - Awesome Page Route Transitions | The Simple Way [2021]](https://www.youtube.com/watch?v=q-e5t3qnB_M)
 - [Flutter Preview - Button with Image and Text [2021] Button Material Ripple Effect #Shorts](https://www.youtube.com/watch?v=yf3FP6df3w0)
-- [Flutter Tutorial - Button with Image and Text [2021] Button Material Ripple Effect](https://www.youtube.com/watch?v=43m9GvHhO3k)
-- [Flutter Preview - How To Expand/Collapse Widget [2021] Expandable Panel #Shorts](https://www.youtube.com/watch?v=qFA5bEgR2ys)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
