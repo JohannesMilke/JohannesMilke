@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Animated Circular FAB Menu | The Easy Way [2021] Expandable FAB Menu #Shorts](https://www.youtube.com/watch?v=V9sKo7tl-I0)
+- [Flutter Tutorial - Animated Circular FAB Menu | The Easy Way [2021] Expandable FAB Menu](https://www.youtube.com/watch?v=EdJ-43J7HgQ)
 - [Flutter Preview - How To Use Flow Widget [2021] Control Multiple Animations #Shorts](https://www.youtube.com/watch?v=EmPHMDxf_Sg)
 - [Flutter Tutorial - How To Use Flow Widget [2021] Control Multiple Animations](https://www.youtube.com/watch?v=r3PSSD5YH00)
 - [Flutter Preview - Generate Android Native Code Using PIGEON [2021] #Shorts](https://www.youtube.com/watch?v=5Iwz4fQhtzs)
-- [Flutter Tutorial - Generate Android Native Code Using PIGEON [2021]](https://www.youtube.com/watch?v=ul4o3O6Kxu0)
-- [Flutter Preview - How To Call iOS Native Code [2021] Swift Platform Specific Code #Shorts](https://www.youtube.com/watch?v=mgikMpND6DI)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
