@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - Create Multi Language App &lpar;i18n&rpar; [2021] Internationalization In Flutter #Shorts](https://www.youtube.com/watch?v=WLxGdHUuHXc)
+- [Flutter Tutorial - Create Multi Language App &lpar;i18n&rpar; [2021] Internationalization In Flutter](https://www.youtube.com/watch?v=aIEegP0cUOQ)
 - [Flutter Preview - Null Safety In Flutter &amp; Dart [2021] Easy Explanation! #Shorts](https://www.youtube.com/watch?v=hudmSZq8wr8)
 - [Flutter Tutorial - Null Safety In Flutter &amp; Dart [2021] Easy Explanation!](https://www.youtube.com/watch?v=PnSpQkOKwv0)
 - [Flutter Preview - SQLite Database Storage Using SQFlite [2021] Insert, Delete, Update, View  #Shorts](https://www.youtube.com/watch?v=V-THbqvEYVs)
-- [Flutter Tutorial - SQLite Database Storage Using SQFlite [2021] Insert, Delete, Update, View Data](https://www.youtube.com/watch?v=ckXSR79AACg)
-- [Flutter Preview - How To Screen Mirror Phone With Flutter [2021] #Shorts](https://www.youtube.com/watch?v=o3JBAq3kgug)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
