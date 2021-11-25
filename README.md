@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Preview - How to Add a Favicon [2021] Flutter Web App Icon  #Shorts](https://www.youtube.com/watch?v=Iq_gtqpmJJ8)
+- [Flutter Tutorial - How to Add a Favicon [2021] Flutter Web App Icon](https://www.youtube.com/watch?v=Rf5bcE18emM)
 - [Flutter Preview - How to Fix Bottom Overflowed When Keyboard Shows [2021] #Shorts](https://www.youtube.com/watch?v=wmUT4A_6xj0)
 - [Flutter Tutorial - How to Fix Bottom Overflowed When Keyboard Shows [2021]](https://www.youtube.com/watch?v=XDxgZVYxez4)
 - [Flutter Preview - How To Autocomplete TextField [2021] Autofill Email, Username, Password #Shorts](https://www.youtube.com/watch?v=KL0AyM8NAcI)
-- [Flutter Tutorial - How To Autocomplete TextField [2021] Autofill Email, Username, Password](https://www.youtube.com/watch?v=kHS31QVtGF4)
-- [Flutter Preview - Upload Flutter Project To GitHub [2021] #Shorts](https://www.youtube.com/watch?v=EHc3F6I9WUM)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
