@@ -44,7 +44,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter Tutorial - CRUD With Firestore 🔥 READ Data &amp; Get Document [2022] 2/3 Firestore CRUD](https://www.youtube.com/watch?v=G4INTsatBew)
+- [Flutter Tutorial - CRUD With Firestore 🔥 | READ Data &amp; Get Document [2022] 2/3 Firestore CRUD](https://www.youtube.com/watch?v=G4INTsatBew)
 - [Flutter Tutorial - CRUD With Firestore 🔥 | WRITE Data &amp; Create Document [2022] 1/3 Firestore CRUD](https://www.youtube.com/watch?v=21vHY9P90jE)
 - [Flutter Tutorial - Firebase Setup [2022] Easy and Quick Firebase Setup!](https://www.youtube.com/watch?v=sz4slPFwEvs)
 - [Flutter Tutorial -  How to make AppBar Transparent [2022]](https://www.youtube.com/watch?v=Bxkj0gIAbnw)
