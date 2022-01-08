@@ -44,7 +44,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter Tutorial - Firebase Authentication 🔥 | Sign In &amp; Logout [2022] 1/3 Email And Password](https://www.youtube.com/watch?v=zpbyJ7GVMVU)
+- [Flutter Tutorial - Firebase Authentication 🔥 | Sign In &amp; Logout [2022] 1/4 Email And Password](https://www.youtube.com/watch?v=zpbyJ7GVMVU)
 - [Flutter Tutorial - Cloud Firestore 🔥 | Pagination &amp; Infinite Scrolling [2022] FlutterFire UI](https://www.youtube.com/watch?v=si6sTuVZxtw)
 - [Flutter Tutorial - CRUD With Firestore 🔥 | UPDATE Data &amp; Delete Document [2022] 3/3 Firestore CRUD](https://www.youtube.com/watch?v=w3krSTSGmaw)
 - [Flutter Tutorial - CRUD With Firestore 🔥 | READ Data &amp; Get Document [2022] 2/3 Firestore CRUD](https://www.youtube.com/watch?v=G4INTsatBew)
