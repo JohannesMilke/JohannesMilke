@@ -44,7 +44,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter Tutorial - Firebase Authentication - Verify Email [2022] 4/4 Email And Password](https://www.youtube.com/watch?v=rTr8BUlUftg)
+- [Flutter Tutorial - Firebase Authentication 🔥 | Verify Email [2022] 4/4 Email And Password](https://www.youtube.com/watch?v=rTr8BUlUftg)
 - [Flutter Tutorial - Firebase Authentication 🔥 | Reset Password [2022] 3/4 Email And Password](https://www.youtube.com/watch?v=JkQJQt_pQho)
 - [Flutter Tutorial - Firebase Authentication 🔥 |  Sign Up [2022] 2/4 Email And Password](https://www.youtube.com/watch?v=OF3lwqcUwPY)
 - [Flutter Tutorial - Firebase Authentication 🔥 | Sign In &amp; Logout [2022] 1/4 Email And Password](https://www.youtube.com/watch?v=zpbyJ7GVMVU)
