@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Pick Date And Time Together](https://www.youtube.com/watch?v=Y_1SHNI__6I)
 - [Flutter Tutorial - Time Picker [2022]](https://www.youtube.com/watch?v=3wsIBoyKmdA)
 - [Flutter Tutorial - Date Picker [2022]](https://www.youtube.com/watch?v=yMZpwXQcP2E)
 - [Flutter Tutorial - Complete Auth Flow with Firebase | Email/Password [2022] FlutterFire Auth UI](https://www.youtube.com/watch?v=tre6TfQELsg)
 - [Flutter Tutorial - Firebase Authentication 🔥 | Verify Email [2022] 4/4 Email And Password](https://www.youtube.com/watch?v=rTr8BUlUftg)
-- [Flutter Tutorial - Firebase Authentication 🔥 | Reset Password [2022] 3/4 Email And Password](https://www.youtube.com/watch?v=JkQJQt_pQho)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
