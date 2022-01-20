@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Navigation Bar [2022]](https://www.youtube.com/watch?v=040PD__39Ok)
 - [Flutter Tutorial - ExpansionTile and ListTile [2022]](https://www.youtube.com/watch?v=vRWY-IQAin0)
 - [Flutter Tutorial - Create Pop-up Dialog Widget [2022]](https://www.youtube.com/watch?v=4pn-_md5Ol4)
 - [Flutter Tutorial - Table Widget [2022]](https://www.youtube.com/watch?v=jedtvojfz30)
 - [Flutter Tutorial - Hero Widget [2022]](https://www.youtube.com/watch?v=t0yMhgXbMXc)
-- [Flutter Tutorial - Date Range Picker [2022]](https://www.youtube.com/watch?v=_G-JIdr2owQ)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
