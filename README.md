@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - GestureDetector &amp; InkWell Widget [2022]](https://www.youtube.com/watch?v=BqSAt4KBEJw)
 - [Flutter Tutorial - CheckBox &amp; CheckBox ListTile [2022]](https://www.youtube.com/watch?v=lQbsoaFjVsc)
 - [Flutter Tutorial - Tabbed AppBar [2022] Tabs, TabBar](https://www.youtube.com/watch?v=ddgyYRnwvD0)
 - [Flutter Tutorial - Bottom Sheet [2022]](https://www.youtube.com/watch?v=TXYuaiukw7E)
 - [Flutter Tutorial - Navigation Bar [2022]](https://www.youtube.com/watch?v=040PD__39Ok)
-- [Flutter Tutorial - ExpansionTile and ListTile [2022]](https://www.youtube.com/watch?v=vRWY-IQAin0)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
