@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Intrinsic Height &amp; Intrinsic Width Widgets [2022]](https://www.youtube.com/watch?v=ce07f8ClcMQ)
 - [Flutter Tutorial - Search Bar Field In AppBar [2022]](https://www.youtube.com/watch?v=Xinjf7AQUYA)
 - [Flutter Tutorial - Validate Forms [2022]](https://www.youtube.com/watch?v=3ni5AkwhwwA)
 - [Flutter Tutorial - Dropdown Menu Item List [2022]](https://www.youtube.com/watch?v=z0ihUbwlSHs)
 - [Flutter Tutorial - WillPopScope Widget [2022]](https://www.youtube.com/watch?v=P8Bhtcuf2Fc)
-- [Flutter Tutorial - GestureDetector &amp; InkWell Widget [2022]](https://www.youtube.com/watch?v=BqSAt4KBEJw)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
