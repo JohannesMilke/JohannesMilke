@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Wrap Widget [2022]](https://www.youtube.com/watch?v=wF7xPT9Cfkk)
 - [Flutter Tutorial - DRAG and DROP [2022] Draggable](https://www.youtube.com/watch?v=T1dkg89J2ac)
 - [Flutter Tutorial - Nested ListViews And Columns [2022]](https://www.youtube.com/watch?v=ZpHuAbYWL3w)
 - [Flutter Tutorial - Markdown Widget [2022]](https://www.youtube.com/watch?v=bNnjf2b3vSk)
 - [Flutter Tutorial - Unique Identifier Generator [2022] UUID Package](https://www.youtube.com/watch?v=SBFCw0tnwxE)
-- [Flutter Tutorial - FittedBox Widget [2022]](https://www.youtube.com/watch?v=WpTMNArnXdc)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
