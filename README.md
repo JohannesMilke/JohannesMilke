@@ -44,7 +44,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter Tutorial - NEW Material 3 Color Scheme [2022]](https://www.youtube.com/watch?v=ZUi3hppgG2s)
+- [Flutter Tutorial - NEW Material 3 Color Scheme Generation [2022]](https://www.youtube.com/watch?v=ZUi3hppgG2s)
 - [Flutter Tutorial - Navigation Drawer [2022] &lpar;Sidebar Menu&rpar;](https://www.youtube.com/watch?v=17FLO6uHhHU)
 - [Flutter Tutorial - Stepper Widget [2022]](https://www.youtube.com/watch?v=n61L06HCJII)
 - [Flutter Tutorial - Fix Row Overflow [2022] Wrap / Scroll](https://www.youtube.com/watch?v=3bJktTKHbnI)
