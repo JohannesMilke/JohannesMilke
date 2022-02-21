@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - SliverAppBar Widget [2022]](https://www.youtube.com/watch?v=nNlPKlSsf5M)
 - [Flutter Tutorial - Dropdown Menu [2022] &lpar;Popup Menu Button&rpar;](https://www.youtube.com/watch?v=kL5WrxyexzA)
 - [Flutter Tutorial - App Bar Widget [2022]](https://www.youtube.com/watch?v=gHhLcTcLHk8)
 - [Flutter Tutorial - NEW Material 3 Color Scheme Generation [2022]](https://www.youtube.com/watch?v=ZUi3hppgG2s)
 - [Flutter Tutorial - Navigation Drawer [2022] &lpar;Sidebar Menu&rpar;](https://www.youtube.com/watch?v=17FLO6uHhHU)
-- [Flutter Tutorial - Stepper Widget [2022]](https://www.youtube.com/watch?v=n61L06HCJII)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
