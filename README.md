@@ -44,7 +44,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter Tutorial - Reorderable ListView [2022] &lpar;by Drag and Drop&rpar;](https://www.youtube.com/watch?v=QYSzwd2mCCg)
+- [Flutter Tutorial - ReorderableListView [2022] &lpar;by Drag and Drop&rpar;](https://www.youtube.com/watch?v=QYSzwd2mCCg)
 - [Flutter Tutorial - SliverAppBar Widget [2022]](https://www.youtube.com/watch?v=nNlPKlSsf5M)
 - [Flutter Tutorial - Dropdown Menu [2022] &lpar;Popup Menu Button&rpar;](https://www.youtube.com/watch?v=kL5WrxyexzA)
 - [Flutter Tutorial - App Bar Widget [2022]](https://www.youtube.com/watch?v=gHhLcTcLHk8)
