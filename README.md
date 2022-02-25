@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Adaptive Widgets [2022] &lpar;Platform Aware Widgets&rpar;](https://www.youtube.com/watch?v=4QdsluVt8dc)
 - [Flutter Tutorial - SingleChildScrollView [2022]](https://www.youtube.com/watch?v=neAn35cY8y0)
 - [Flutter Tutorial - WebView [2022]](https://www.youtube.com/watch?v=qDl8F2MElms)
 - [Flutter Tutorial - ReorderableListView [2022] &lpar;by Drag and Drop&rpar;](https://www.youtube.com/watch?v=QYSzwd2mCCg)
 - [Flutter Tutorial - SliverAppBar Widget [2022]](https://www.youtube.com/watch?v=nNlPKlSsf5M)
-- [Flutter Tutorial - Dropdown Menu [2022] &lpar;Popup Menu Button&rpar;](https://www.youtube.com/watch?v=kL5WrxyexzA)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
