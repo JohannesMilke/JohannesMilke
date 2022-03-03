@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter - Orientation and MediaQuery &lpar;Responsive Design&rpar;](https://www.youtube.com/watch?v=tPFcdb-OpGM)
 - [Flutter - MediaQuery &lpar;Responsive Design&rpar;](https://www.youtube.com/watch?v=Mi7dizGicJo)
 - [Flutter - Expanded vs Flexible](https://www.youtube.com/watch?v=ruqMR5htic4)
 - [Flutter Tutorial - Spread Operator [2022]](https://www.youtube.com/watch?v=dtAi2vFVr8I)
 - [Flutter Tutorial - Collection-If and Collection-For [2022]](https://www.youtube.com/watch?v=OTx3lck2bEc)
-- [Flutter Tutorial - Adaptive Widgets [2022] &lpar;Platform Aware Widgets&rpar;](https://www.youtube.com/watch?v=4QdsluVt8dc)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
