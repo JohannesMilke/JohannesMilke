@@ -44,8 +44,8 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter - SizedBox](https://www.youtube.com/watch?v=NsugPH2D3j0)
-- [Flutter - LayoutBuilder &lpar;Responsive Design&rpar;](https://www.youtube.com/watch?v=qDqSYdIZbSs)
+- [Flutter SizedBox](https://www.youtube.com/watch?v=NsugPH2D3j0)
+- [Flutter LayoutBuilder &lpar;Responsive Design&rpar;](https://www.youtube.com/watch?v=qDqSYdIZbSs)
 - [Flutter - Orientation and MediaQuery &lpar;Responsive Design&rpar;](https://www.youtube.com/watch?v=tPFcdb-OpGM)
 - [Flutter - MediaQuery &lpar;Responsive Design&rpar;](https://www.youtube.com/watch?v=Mi7dizGicJo)
 - [Flutter - Expanded vs Flexible](https://www.youtube.com/watch?v=ruqMR5htic4)
