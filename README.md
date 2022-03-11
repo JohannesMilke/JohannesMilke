@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Shared Preferences &lpar;Data Persistence&rpar;](https://www.youtube.com/watch?v=-btxQ6p-VpQ)
 - [LimitedBox &lpar;Flutter Widget&rpar;](https://www.youtube.com/watch?v=20UaKnIftdg)
 - [Flutter ConstrainedBox &lpar;Widget Constraints&rpar;](https://www.youtube.com/watch?v=XdQp8-RFfSg)
 - [Flutter Chat App UI &lpar;Messaging App&rpar;](https://www.youtube.com/watch?v=eGhvL082-Pc)
 - [Grouped ListView &lpar;Flutter Sticky Header&rpar;](https://www.youtube.com/watch?v=ndYxhCE5bMk)
-- [Flutter FractionallySizedBox &lpar;Responsive Design&rpar;](https://www.youtube.com/watch?v=k7vZ0ZZkZzM)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
