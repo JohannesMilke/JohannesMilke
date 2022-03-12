@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter: Null Aware Operators &lpar;?., ??, ??=, ...?&rpar;](https://www.youtube.com/watch?v=Lq4yBH7fATI)
 - [Flutter Shared Preferences &lpar;Data Persistence&rpar;](https://www.youtube.com/watch?v=-btxQ6p-VpQ)
 - [LimitedBox &lpar;Flutter Widget&rpar;](https://www.youtube.com/watch?v=20UaKnIftdg)
 - [Flutter ConstrainedBox &lpar;Widget Constraints&rpar;](https://www.youtube.com/watch?v=XdQp8-RFfSg)
 - [Flutter Chat App UI &lpar;Messaging App&rpar;](https://www.youtube.com/watch?v=eGhvL082-Pc)
-- [Grouped ListView &lpar;Flutter Sticky Header&rpar;](https://www.youtube.com/watch?v=ndYxhCE5bMk)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
