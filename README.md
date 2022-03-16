@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter: Null Safety &lpar;!, ?, ??, late&rpar;](https://www.youtube.com/watch?v=pgBwnMhz5nE)
 - [Flutter ClipPath &lpar;Bezier Curves&rpar;](https://www.youtube.com/watch?v=xuatM4pZkNk)
 - [Flutter: Infinite Scrolling ListView &lpar;HTTP GET&rpar;](https://www.youtube.com/watch?v=eENDlIgadr4)
 - [Flutter: Pull To Refresh ListView &lpar;HTTP GET&rpar;](https://www.youtube.com/watch?v=2h1yZARPC5U)
 - [Flutter: Null Aware Operators &lpar;?., ??, ??=, ...?&rpar;](https://www.youtube.com/watch?v=Lq4yBH7fATI)
-- [Flutter Shared Preferences &lpar;Data Persistence&rpar;](https://www.youtube.com/watch?v=-btxQ6p-VpQ)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
