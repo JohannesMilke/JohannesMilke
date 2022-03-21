@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Cascade Operator &lpar;..&rpar;](https://www.youtube.com/watch?v=cZsbNeh3FB8)
 - [Flutter YouTube Player](https://www.youtube.com/watch?v=GQyWIur03aw)
 - [The BIGGEST Flutter LIE 🤐](https://www.youtube.com/watch?v=WazBqO1jzN8)
 - [Flutter DRAG n DROP &lpar;Stack&rpar;](https://www.youtube.com/watch?v=e7VX5McI6gU)
 - [Flutter Liquid Swipe](https://www.youtube.com/watch?v=OVDPEgLMPWo)
-- [Flutter: Null Safety &lpar;!, ?, ??, late&rpar;](https://www.youtube.com/watch?v=pgBwnMhz5nE)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
