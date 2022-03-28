@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Top 10 Flutter Widgets &lpar;for Responsive Layouts&rpar;](https://www.youtube.com/watch?v=gK288ZfzjCc)
 - [Flutter Neumorphism Button](https://www.youtube.com/watch?v=A2Bbhr3DGd0)
 - [Flutter: Sticky Header in ListView](https://www.youtube.com/watch?v=o-Sj-ywP4Yo)
 - [Flutter Google Translate](https://www.youtube.com/watch?v=zwrC2vigls8)
 - [Flutter Cascade Operator &lpar;..&rpar;](https://www.youtube.com/watch?v=cZsbNeh3FB8)
-- [Flutter YouTube Player](https://www.youtube.com/watch?v=GQyWIur03aw)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
