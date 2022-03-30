@@ -44,7 +44,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter: Upload Image to Firebase Storage](https://www.youtube.com/watch?v=3x92z0oHbtY)
+- [Flutter: Upload Files to Firebase Storage &lpar;Image, Video, PDF, etc.&rpar;](https://www.youtube.com/watch?v=3x92z0oHbtY)
 - [Top 10 Flutter Widgets &lpar;for Responsive Layouts&rpar;](https://www.youtube.com/watch?v=gK288ZfzjCc)
 - [Flutter Neumorphism Button](https://www.youtube.com/watch?v=A2Bbhr3DGd0)
 - [Flutter: Sticky Header in ListView](https://www.youtube.com/watch?v=o-Sj-ywP4Yo)
