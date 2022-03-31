@@ -44,7 +44,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Download and Save Image to Gallery | Flutter Tutorial](https://www.youtube.com/watch?v=JILcQLZvjKE)
+- [Flutter: Save Image to Gallery / Photos](https://www.youtube.com/watch?v=JILcQLZvjKE)
 - [Flutter: Upload Files to Firebase Storage &lpar;Image, Video, PDF, etc.&rpar;](https://www.youtube.com/watch?v=3x92z0oHbtY)
 - [Top 10 Flutter Widgets &lpar;for Responsive Layouts&rpar;](https://www.youtube.com/watch?v=gK288ZfzjCc)
 - [Flutter Neumorphism Button](https://www.youtube.com/watch?v=A2Bbhr3DGd0)
