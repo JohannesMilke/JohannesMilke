@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter StreamBuilder | The Right Way](https://www.youtube.com/watch?v=g8Y1Eqa4pbc)
 - [Flutter: Building ListView with JSON Data | HTTP GET](https://www.youtube.com/watch?v=1OEhIpBIZXM)
 - [ListView with Navigator | Flutter Tutorial](https://www.youtube.com/watch?v=4tG8M4wK4F0)
 - [Flutter Vertical ListView | Scrollable Column](https://www.youtube.com/watch?v=uwF0veucf5Q)
 - [Flutter Horizontal ListView | Scrollable Row](https://www.youtube.com/watch?v=4okl2LsLUaU)
-- [Flutter FutureBuilder | The Right Way](https://www.youtube.com/watch?v=Pp3zoNDGZUI)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
