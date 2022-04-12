@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [TOP 7 AppBar Widgets | Flutter Tutorial](https://www.youtube.com/watch?v=TlbbIQykHK0)
 - [Flutter Audio Recorder](https://www.youtube.com/watch?v=j4mX0jtxWpA)
 - [Flutter Future &lpar;async, await&rpar;](https://www.youtube.com/watch?v=RAOoVvTQeAI)
 - [Flutter StreamBuilder | The Right Way](https://www.youtube.com/watch?v=g8Y1Eqa4pbc)
 - [Flutter: Building ListView with JSON Data | HTTP GET](https://www.youtube.com/watch?v=1OEhIpBIZXM)
-- [ListView with Navigator | Flutter Tutorial](https://www.youtube.com/watch?v=4tG8M4wK4F0)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
