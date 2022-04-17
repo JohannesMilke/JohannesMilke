@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AspectRatio &lpar;Flutter Responsive Design&rpar;](https://www.youtube.com/watch?v=fS9KvxewacA)
 - [Flutter GlobalKey](https://www.youtube.com/watch?v=uvpaZGNHVdI)
 - [Flutter Firebase CRUD &lpar;Create, Read, Update, Delete&rpar;](https://www.youtube.com/watch?v=ErP_xomHKTw)
 - [Flutter Audio Player &lpar;from URL, File, Assets&rpar;](https://www.youtube.com/watch?v=MB3YGQ-O1lk)
 - [TOP 7 AppBar Widgets | Flutter Tutorial](https://www.youtube.com/watch?v=TlbbIQykHK0)
-- [Flutter Audio Recorder](https://www.youtube.com/watch?v=j4mX0jtxWpA)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
