@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Upload and Download Files | Flutter Firebase Storage](https://www.youtube.com/watch?v=Jt3OSCe7eOw)
 - [Flutter Firebase Authentication [2022] The Cleanest Way](https://www.youtube.com/watch?v=4vKiJZNPhss)
 - [TOP 12 ListView Widgets | Flutter Tutorial](https://www.youtube.com/watch?v=L3NJkkOC4Ko)
 - [Flutter Confetti Animation](https://www.youtube.com/watch?v=lowMUJI5iP4)
 - [AspectRatio &lpar;Flutter Responsive Design&rpar;](https://www.youtube.com/watch?v=fS9KvxewacA)
-- [Flutter GlobalKey](https://www.youtube.com/watch?v=uvpaZGNHVdI)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
