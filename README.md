@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Operators &lpar;Collection, Spread, Cascade Operators&rpar;](https://www.youtube.com/watch?v=Axj7CeU0nVE)
 - [Set Background Image &lpar;Flutter Screen Background&rpar;](https://www.youtube.com/watch?v=Yv4IvqKgWBE)
 - [Flutter Glass Morphism | Glass Effect](https://www.youtube.com/watch?v=WxP9ABzfgow)
 - [What is the BuildContext? &lpar;Flutter Builder Widget&rpar;](https://www.youtube.com/watch?v=upOiX1zrh9Y)
 - [Upload and Download Files | Flutter Firebase Storage](https://www.youtube.com/watch?v=Jt3OSCe7eOw)
-- [Flutter Firebase Authentication [2022] The Cleanest Way](https://www.youtube.com/watch?v=4vKiJZNPhss)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
