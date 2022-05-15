@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Beginning Flutter | Common Widgets](https://www.youtube.com/watch?v=ckDDXKSu3XQ)
 - [Neon Light Button with Flutter](https://www.youtube.com/watch?v=gnmgoWYFoU8)
 - [Flutter Common Widgets &lpar;Flutter Beginner/Intermediate&rpar;](https://www.youtube.com/watch?v=lat50F6Gjms)
 - [Flutter ListView](https://www.youtube.com/watch?v=nDX638qatP0)
 - [Flutter Null Safety &lpar;!, ?, ??, late, ...&rpar;](https://www.youtube.com/watch?v=5Ro-CZ8Msno)
-- [PARALLAX Scrolling Effect &lpar;Flutter Animation&rpar;](https://www.youtube.com/watch?v=EUli31dh6MM)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
