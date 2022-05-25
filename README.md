@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Web Scraping + Javascript 🤫 | The Ultimate Guide](https://www.youtube.com/watch?v=EHk66k___EY)
 - [Flutter ValueKey](https://www.youtube.com/watch?v=rV7CPCttk78)
 - [Flutter Boxes &lpar;SizedBox, LimitedBox, ConstrainedBox, ...&rpar;](https://www.youtube.com/watch?v=Cf2m_nX6JUE)
 - [Best Widgets To Start with Flutter](https://www.youtube.com/watch?v=ckDDXKSu3XQ)
 - [Neon Light Button with Flutter](https://www.youtube.com/watch?v=gnmgoWYFoU8)
-- [Flutter Common Widgets &lpar;Flutter Beginner/Intermediate&rpar;](https://www.youtube.com/watch?v=lat50F6Gjms)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
