@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Build a Quiz App with Flutter](https://www.youtube.com/watch?v=J6T8l8KB9Xk)
 - [Flutter Search Textfield &lpar;inside ListView/AppBar&rpar;](https://www.youtube.com/watch?v=Xdt8TlwNRAM)
 - [Date Picker, Time Picker, Date Range Picker | Flutter Tutorial](https://www.youtube.com/watch?v=2k_PPpR7jII)
 - [Flutter Expandable List &lpar;ExpansionTile, ListTile&rpar;](https://www.youtube.com/watch?v=w1rSkpGMJdk)
 - [Futures and Streams &lpar;Flutter FutureBuilder, StreamBuilder&rpar;](https://www.youtube.com/watch?v=lkpPg0ieklg)
-- [Flutter Web Scraping + Javascript 🤫 | The Ultimate Guide](https://www.youtube.com/watch?v=EHk66k___EY)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
