@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Audio Player and Audio Recorder](https://www.youtube.com/watch?v=Bxn8k9F5JiM)
 - [Flutter Responsive Design &lpar;MediaQuery, Orientation&rpar;](https://www.youtube.com/watch?v=Tdpvv5t67l4)
 - [NoSQL Database Storage | Flutter ObjectBox &lpar;vs Sqlite, Sqflite, Hive&rpar;](https://www.youtube.com/watch?v=BBlr8F8m9lo)
 - [Preserve Scroll Position in ListView &lpar;Flutter Page Storage Key&rpar;](https://www.youtube.com/watch?v=A_Px9Dx-Rxw)
 - [Build a Quiz App with Flutter](https://www.youtube.com/watch?v=J6T8l8KB9Xk)
-- [Flutter Search Textfield &lpar;inside ListView/AppBar&rpar;](https://www.youtube.com/watch?v=Xdt8TlwNRAM)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
