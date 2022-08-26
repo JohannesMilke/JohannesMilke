@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter App with Backend Server | Dart Cloud Functions](https://www.youtube.com/watch?v=bEGYsOpBXwE)
 - [Every Flutter App needs this!](https://www.youtube.com/watch?v=U7tvQUnCVwI)
 - [Best Video Player in Flutter](https://www.youtube.com/watch?v=P3l9o31AoeQ)
 - [Flutter In App Purchases &amp; Subscriptions for iOS &amp; Android [2022] RevenueCat](https://www.youtube.com/watch?v=TrkiSZ2mnlo)
 - [Flutter TextTheme](https://www.youtube.com/watch?v=FSq-ZNir1fg)
-- [Flutter Cached Network Image](https://www.youtube.com/watch?v=V7YtzC48SUg)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
