@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Zoom Image | Pinch To Zoom](https://www.youtube.com/watch?v=2mVJAio4O5I)
 - [Flutter Tinder Clone](https://www.youtube.com/watch?v=uHiTO1dfjUI)
 - [Flutter Google Maps | Custom Map Markers](https://www.youtube.com/watch?v=zO31iSQZ2Y8)
 - [Flutter App with Backend Server | Dart Cloud Functions](https://www.youtube.com/watch?v=bEGYsOpBXwE)
 - [Every Flutter App needs this!](https://www.youtube.com/watch?v=U7tvQUnCVwI)
-- [Best Video Player in Flutter](https://www.youtube.com/watch?v=P3l9o31AoeQ)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
