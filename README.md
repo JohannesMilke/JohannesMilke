@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Slidable in ListView](https://www.youtube.com/watch?v=81nbfr37oxg)
 - [Top 10 Widgets every Flutter Developer should know!](https://www.youtube.com/watch?v=2Dg_5CSWYB4)
 - [Flutter Clean Architecture | Data Layer](https://www.youtube.com/watch?v=tACnip2S_mQ)
 - [Flutter Clean Architecture | Domain Layer](https://www.youtube.com/watch?v=DH-uyZVurts)
 - [Flutter Zoom Image | Pinch To Zoom](https://www.youtube.com/watch?v=2mVJAio4O5I)
-- [Flutter Tinder Clone](https://www.youtube.com/watch?v=uHiTO1dfjUI)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
