@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [#Trailer: HeyFlutter.com](https://www.youtube.com/watch?v=YqOP_cgBOcY)
 - [Flutter In App Purchases &amp; Subscriptions with Glassfy](https://www.youtube.com/watch?v=baIL-QCnkI0)
 - [Flutter Rich Text Editor | Quill Editor](https://www.youtube.com/watch?v=PLP_WiB7QgA)
 - [Get User Current Location in Flutter &lpar;+ show in Google Maps&rpar;](https://www.youtube.com/watch?v=9v44lAagZCI)
 - [Flutter Clean Architecture | Presentation Layer](https://www.youtube.com/watch?v=x56RR2VvLyI)
-- [GitHub Copilot in Flutter | AI Powered Code](https://www.youtube.com/watch?v=DluLSnHycaA)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
