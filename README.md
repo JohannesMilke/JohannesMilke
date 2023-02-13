@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Infinite Scrolling Pagination for ListView](https://www.youtube.com/watch?v=FdsqU02xwsE)
 - [Flutter E-commerce App &amp; Shop Design | Speed Code](https://www.youtube.com/watch?v=SnbKGMnjv_s)
 - [Flutter Fruit-Shop Design | Speed Code](https://www.youtube.com/watch?v=5XWdLvqi4yY)
 - [#Trailer: HeyFlutter.com](https://www.youtube.com/watch?v=YqOP_cgBOcY)
 - [Flutter In App Purchases &amp; Subscriptions with Glassfy](https://www.youtube.com/watch?v=baIL-QCnkI0)
-- [Flutter Rich Text Editor | Quill Editor](https://www.youtube.com/watch?v=PLP_WiB7QgA)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
