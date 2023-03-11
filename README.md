@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Native Splash Screen](https://www.youtube.com/watch?v=ioWob9KnWk4)
 - [Flutter Firebase Setup using FlutterFire CLI [2023] Easy and Fastest Way!](https://www.youtube.com/watch?v=G-mbqiE87Lw)
 - [Flutter - Clip Widgets using Image Masks | The Easiest Way to use Clip Path](https://www.youtube.com/watch?v=QuPPxugjcdo)
 - [Flutter Infinite Scrolling Pagination for ListView](https://www.youtube.com/watch?v=FdsqU02xwsE)
 - [Flutter E-commerce App &amp; Shop Design | Speed Code](https://www.youtube.com/watch?v=SnbKGMnjv_s)
-- [Flutter Fruit-Shop Design | Speed Code](https://www.youtube.com/watch?v=5XWdLvqi4yY)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
