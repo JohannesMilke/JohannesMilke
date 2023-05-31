@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Rive Animations in Flutter](https://www.youtube.com/watch?v=mEl4ad1WXps)
 - [Flutter Connectivity Plus | Check Network Connection](https://www.youtube.com/watch?v=HgBooRkdjcw)
 - [Flutter Platform Specific Widgets](https://www.youtube.com/watch?v=LsEwF15bCwM)
 - [Internationalization and Localization in Flutter &lpar;i18n&rpar;](https://www.youtube.com/watch?v=sTGyufxPnUM)
 - [Flutter Native Splash Screen](https://www.youtube.com/watch?v=ioWob9KnWk4)
-- [Flutter Firebase Setup using FlutterFire CLI [2023] Easy and Fastest Way!](https://www.youtube.com/watch?v=G-mbqiE87Lw)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
