@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Animated TextKit](https://www.youtube.com/watch?v=AlhR2x15Y8Q)
 - [Rive Animations in Flutter](https://www.youtube.com/watch?v=mEl4ad1WXps)
 - [Flutter Connectivity Plus | Check Network Connection](https://www.youtube.com/watch?v=HgBooRkdjcw)
 - [Flutter Platform Specific Widgets](https://www.youtube.com/watch?v=LsEwF15bCwM)
 - [Internationalization and Localization in Flutter &lpar;i18n&rpar;](https://www.youtube.com/watch?v=sTGyufxPnUM)
-- [Flutter Native Splash Screen](https://www.youtube.com/watch?v=ioWob9KnWk4)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
