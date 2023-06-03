@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Web Scraping | ALL Tutorials](https://www.youtube.com/watch?v=wW9T5lP3DoY)
 - [Build Desktop Apps with Flutter | Flutter Fluent UI](https://www.youtube.com/watch?v=nBqCdMYpa9c)
 - [Flutter Animated TextKit](https://www.youtube.com/watch?v=AlhR2x15Y8Q)
 - [Rive Animations in Flutter](https://www.youtube.com/watch?v=mEl4ad1WXps)
 - [Flutter Connectivity Plus | Check Network Connection](https://www.youtube.com/watch?v=HgBooRkdjcw)
-- [Flutter Platform Specific Widgets](https://www.youtube.com/watch?v=LsEwF15bCwM)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
