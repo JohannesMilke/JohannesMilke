@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Push Notifications using Firebase](https://www.youtube.com/watch?v=k0zGEbiDJcQ)
 - [How to Make Responsive Texts in Flutter](https://www.youtube.com/watch?v=8_XXi4l8_x8)
 - [Flutter Web Scraping | ALL Tutorials](https://www.youtube.com/watch?v=wW9T5lP3DoY)
 - [Build Desktop Apps with Flutter | Flutter Fluent UI](https://www.youtube.com/watch?v=nBqCdMYpa9c)
 - [Flutter Animated TextKit](https://www.youtube.com/watch?v=AlhR2x15Y8Q)
-- [Rive Animations in Flutter](https://www.youtube.com/watch?v=mEl4ad1WXps)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
