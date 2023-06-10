@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - HTTP Requests and REST API &lpar;GET, POST, PUT and DELETE&rpar;](https://www.youtube.com/watch?v=4hq_Kwu7sgU)
 - [Movie App UI Design | Flutter Speed Code](https://www.youtube.com/watch?v=gPRXrOjR_Zg)
 - [Flutter In-App Purchases | Android &amp; iOS](https://www.youtube.com/watch?v=3w15dLLi-K8)
 - [Flutter Version Management](https://www.youtube.com/watch?v=xoleURJw7o8)
 - [Flutter Push Notifications using Firebase](https://www.youtube.com/watch?v=k0zGEbiDJcQ)
-- [How to Make Responsive Texts in Flutter](https://www.youtube.com/watch?v=8_XXi4l8_x8)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
