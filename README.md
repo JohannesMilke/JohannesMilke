@@ -65,12 +65,12 @@
 
 
 
-[website]: https://johannesmilke.com
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke
-[youtube]: https://www.youtube.com/JohannesMilke?sub_confirmation=1
-[linkedin]: https://linkedin.com/in/JohannesMilke
+[website]: https://heyflutter.com
+[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=HeyFlutter_
+[youtube]: https://youtube.com/@heyflutter?sub_confirmation=1
+[linkedin]: https://www.linkedin.com/company/heyflutter/
 [github]: https://github.com/JohannesMilke
-[instagram]: https://www.instagram.com/johannesmilke
-[facebook]: https://www.facebook.com/real.JohannesMilke
+[instagram]: https://instagram.com/heyflutter_
+[facebook]: https://www.facebook.com/heyflutter
 [medium]: https://medium.com/@JohannesMilke
 [email]: mailto:hello@heyflutter.com
