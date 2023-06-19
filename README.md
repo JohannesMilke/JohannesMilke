@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Toast Message | Say Goodbye to SnackBars!](https://www.youtube.com/watch?v=1sxy87A8tGY)
 - [Flutter BloC Pattern &lpar;Create, Read, Update &amp; Delete&rpar;](https://www.youtube.com/watch?v=rVI6IR1JiVA)
 - [Actions and Shortcuts Widget in Flutter - Keyboard actions For Web &amp; Desktop](https://www.youtube.com/watch?v=G2L2BmNc8ow)
 - [Flutter Hooks: State Management Without Stateful Widgets](https://www.youtube.com/watch?v=GkmYtjL6odI)
 - [Flutter Image Zoom: Interactive Viewer for Stunning Zoom In/Out Effects](https://www.youtube.com/watch?v=gJYSiTCfjVI)
-- [Flutter URL Launcher | Opening URLs in Web Browser and In App WebView](https://www.youtube.com/watch?v=wI1IroOdVvE)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
