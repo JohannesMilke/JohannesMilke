@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Animated Container in 3 Minutes](https://www.youtube.com/watch?v=4Qu91aAw1Hk)
 - [Flutter A To Z ListView - An Alphabetical Scroll List](https://www.youtube.com/watch?v=lbWBslPlZnc)
 - [Flutter SQL Database Storage Using Sqlite &amp; Sqflite CRUD](https://www.youtube.com/watch?v=9kbt4SBKhm0)
 - [Flutter Toast Message | Say Goodbye to SnackBars!](https://www.youtube.com/watch?v=1sxy87A8tGY)
 - [Flutter BloC Pattern &lpar;Create, Read, Update &amp; Delete&rpar;](https://www.youtube.com/watch?v=rVI6IR1JiVA)
-- [Actions and Shortcuts Widget in Flutter - Keyboard actions For Web &amp; Desktop](https://www.youtube.com/watch?v=G2L2BmNc8ow)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
