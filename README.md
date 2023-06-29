@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Create Multi Language App | Internationalization &amp; Localization In Flutter](https://www.youtube.com/watch?v=zugxpAcbe4U)
 - [Font Awesome Icons for Flutter | Enhance Your App with Ease](https://www.youtube.com/watch?v=yPDnEicc3GU)
 - [Flutter Barcode Scanner | Accurate QR Code and Barcode Scanning](https://www.youtube.com/watch?v=622vOT8A1J0)
 - [Flutter Logger | Optimize App Development with Logging](https://www.youtube.com/watch?v=6Q7WiakvOAo)
 - [Flutter Animated Container in 3 Minutes](https://www.youtube.com/watch?v=4Qu91aAw1Hk)
-- [Flutter A To Z ListView - An Alphabetical Scroll List](https://www.youtube.com/watch?v=lbWBslPlZnc)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
