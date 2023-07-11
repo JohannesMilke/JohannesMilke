@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Code Generation with Freezed - Data Classes &amp; Unions/Sealed Classes](https://www.youtube.com/watch?v=D20Pg5iYX8c)
 - [Flutter Routemaster: Navigation and Routing with Observers and Guarded Routes](https://www.youtube.com/watch?v=b9vZiWHGy_E)
 - [Flutter Charts - Data Visualization with Line Chart, Pie Chart and Bar Chart](https://www.youtube.com/watch?v=MFvq0MdeKcI)
 - [Create Multi Language App | Internationalization &amp; Localization In Flutter](https://www.youtube.com/watch?v=zugxpAcbe4U)
 - [Font Awesome Icons for Flutter | Enhance Your App with Ease](https://www.youtube.com/watch?v=yPDnEicc3GU)
-- [Flutter Barcode Scanner | Accurate QR Code and Barcode Scanning](https://www.youtube.com/watch?v=622vOT8A1J0)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
