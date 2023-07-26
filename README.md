@@ -45,7 +45,7 @@
 
 <!-- YOUTUBE:START -->
 - [Real Programmer 👨‍💻 VS Designer 😎](https://www.youtube.com/watch?v=jIuiavEFEZY)
-- [FREE 2 HOURS Write Clean Flutter Code Course for Experts](https://www.youtube.com/watch?v=fdyo8KG54gU)
+- [FREE 2 HOURS Write Clean Flutter Code Course.](https://www.youtube.com/watch?v=fdyo8KG54gU)
 - [Flutter Code Generation with Freezed - Data Classes &amp; Unions/Sealed Classes](https://www.youtube.com/watch?v=D20Pg5iYX8c)
 - [Flutter Routemaster: Navigation and Routing with Observers and Guarded Routes](https://www.youtube.com/watch?v=b9vZiWHGy_E)
 - [Flutter Charts - Data Visualization with Line Chart, Pie Chart and Bar Chart](https://www.youtube.com/watch?v=MFvq0MdeKcI)
