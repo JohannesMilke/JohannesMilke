@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [FASTEST Way to Learn Flutter and ACTUALLY Get a Job](https://www.youtube.com/watch?v=QPSYj2617UI)
 - [The best Flutter community 🔥🥳](https://www.youtube.com/watch?v=fA25AfAZLRg)
 - [Flutter Complete E-Commerce App | Flutter UI](https://www.youtube.com/watch?v=a1K0ZYQYFaY)
 - [Stupid mistakes programmers do 🤦‍♂️👨‍💻](https://www.youtube.com/watch?v=vifTxXYN8Eg)
 - [Real Programmer 👨‍💻 VS Designer 😎](https://www.youtube.com/watch?v=jIuiavEFEZY)
-- [FREE 2 HOURS Write Clean Flutter Code Course.](https://www.youtube.com/watch?v=fdyo8KG54gU)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
