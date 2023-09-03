@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Course: Firebase Chat App](https://www.youtube.com/watch?v=2nXDzyAaChI)
 - [100k Subscribers 🔥🎉 &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=wDcrnqvKPHs)
 - [Top 10 Flutter Tips and Tricks | That Will Change Your Life](https://www.youtube.com/watch?v=p5WycJpkV9E)
 - [Coding at home 🏠 or at interview 👨‍🏫](https://www.youtube.com/watch?v=Quq9TyVEvbU)
 - [Programmers in Movies 🍿 VS Real Life 😎](https://www.youtube.com/watch?v=hiEZoYErcuk)
-- [FASTEST Way to Learn Flutter and ACTUALLY Get a Job](https://www.youtube.com/watch?v=QPSYj2617UI)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
