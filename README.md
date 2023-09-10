@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Junior Developer 😮 vs Senior Developer 🚀](https://www.youtube.com/watch?v=0k8z2oVP1fk)
 - [100k Subscribers 🔥🎉 &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=wDcrnqvKPHs)
 - [Flutter Course: Firebase Chat App](https://www.youtube.com/watch?v=2nXDzyAaChI)
 - [Top 10 Flutter Tips and Tricks | That Will Change Your Life](https://www.youtube.com/watch?v=p5WycJpkV9E)
 - [Coding at home 🏠 or at interview 👨‍🏫](https://www.youtube.com/watch?v=Quq9TyVEvbU)
-- [Programmers in Movies 🍿 VS Real Life 😎](https://www.youtube.com/watch?v=hiEZoYErcuk)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
