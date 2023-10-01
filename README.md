@@ -44,7 +44,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Ask Shorebird 🙋‍♂️🙋‍♀️ &lpar;Livestream with Felix Angelov&rpar;](https://www.youtube.com/watch?v=D82d_gPXduY)
+- [Ask Shorebird 🙋‍♂️🙋‍♀️ Code Push for Flutter &lpar;Livestream with Felix Angelov&rpar;](https://www.youtube.com/watch?v=D82d_gPXduY)
 - [Ask HeyFlutter 🙋‍♂️🙋‍♀️ &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=t74y1-WrxPI)
 - [When Junior Developer becomes Senior Developer 😮](https://www.youtube.com/watch?v=0IhVxfs6FCI)
 - [Junior Developer 😮 vs Senior Developer 🚀](https://www.youtube.com/watch?v=0k8z2oVP1fk)
