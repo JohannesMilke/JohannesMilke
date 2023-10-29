@@ -44,7 +44,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter Riverpod State Management  🙋‍♂️🙋‍♀️ &lpar;Livestream with Remi Rousselet&rpar;](https://www.youtube.com/watch?v=UyepBhIY5Bo)
+- [Flutter Riverpod State Management  &lpar;With Remi Rousselet&rpar;](https://www.youtube.com/watch?v=UyepBhIY5Bo)
 - [Create Responsive Flutter Apps 🖥📱&lpar;Livestream&rpar;](https://www.youtube.com/watch?v=nkCj8IERfDo)
 - [Ask HeyFlutter #2 🙋‍♂️🙋‍♀️ &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=nu1wImv_cTU)
 - [Flutter Coding Challenge 🙋‍♂️🙋‍♀️ &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=aERczKh_uMk)
