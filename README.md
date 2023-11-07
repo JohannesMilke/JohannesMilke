@@ -44,8 +44,8 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Top 5 Design Patterns](https://www.youtube.com/watch?v=YTsumgPP9ko)
 - [Flutter Coding Challenge | Plant App UI  &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=5O1ZR0LaWfw)
+- [Top 5 Design Patterns](https://www.youtube.com/watch?v=YTsumgPP9ko)
 - [Flutter Riverpod State Management  &lpar;With Remi Rousselet&rpar;](https://www.youtube.com/watch?v=UyepBhIY5Bo)
 - [Create Responsive Flutter Apps 🖥📱&lpar;Livestream&rpar;](https://www.youtube.com/watch?v=nkCj8IERfDo)
 - [Ask HeyFlutter #2 🙋‍♂️🙋‍♀️ &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=nu1wImv_cTU)
