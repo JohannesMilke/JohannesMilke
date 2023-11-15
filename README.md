@@ -44,7 +44,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Naming Things in Flutter](https://www.youtube.com/watch?v=3yB7hDI6FZ8)
+- [Naming Things in Flutter Code](https://www.youtube.com/watch?v=3yB7hDI6FZ8)
 - [Fix Overflow Issues for Flutter Apps &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=6cEfE6DNN5Y)
 - [What&#39;s happening with #Flutter?](https://www.youtube.com/watch?v=qEKHpOum9nI)
 - [Flutter Coding Challenge | Plant App UI  &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=5O1ZR0LaWfw)
