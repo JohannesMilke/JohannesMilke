@@ -44,7 +44,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Build Flutter Apps with FlutterFlow &lpar;Livestream with Abel Mengistu&rpar;](https://www.youtube.com/watch?v=cd7RsCDXLoI)
+- [Build Flutter Apps with FlutterFlow &lpar;With Abel Mengistu&rpar;](https://www.youtube.com/watch?v=cd7RsCDXLoI)
 - [Flutter in 90 seconds](https://www.youtube.com/watch?v=VpV-DI9SQwM)
 - [Naming Things in Flutter Code](https://www.youtube.com/watch?v=3yB7hDI6FZ8)
 - [Fix Overflow Issues for Flutter Apps &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=6cEfE6DNN5Y)
