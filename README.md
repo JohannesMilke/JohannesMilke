@@ -44,8 +44,8 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [What is an API?](https://www.youtube.com/watch?v=FUZ8zmxhPGg)
 - [Build Animations in Flutter &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=FhDZqJtU6Ag)
+- [What is an API?](https://www.youtube.com/watch?v=FUZ8zmxhPGg)
 - [Build Flutter Apps with FlutterFlow &lpar;With Abel Mengistu&rpar;](https://www.youtube.com/watch?v=cd7RsCDXLoI)
 - [Flutter in 90 seconds](https://www.youtube.com/watch?v=VpV-DI9SQwM)
 - [Naming Things in Flutter Code](https://www.youtube.com/watch?v=3yB7hDI6FZ8)
