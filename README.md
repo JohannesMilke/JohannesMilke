@@ -45,10 +45,10 @@
 
 <!-- YOUTUBE:START -->
 - [Flutter Coding Challenge | Weather App UI &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=FkPWn1AvlKQ)
+- [Flutter Coding Challenge | Weather App UI &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=stRmoMNh9dY)
 - [5 Dart concepts to know before you jump into Flutter](https://www.youtube.com/watch?v=gDCP_xUHUCk)
 - [Build Animated Apps with Rive &amp; Flutter &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=gVQLe84PvS8)
 - [A Realistic Day in the Life of a Software Engineer 🙋‍♂️🙋‍♂️](https://www.youtube.com/watch?v=fdfBFxBWYXg)
-- [Let&#39;s Build Flappy Bird Game in Flutter &amp; Flame - Complete Tutorial](https://www.youtube.com/watch?v=zcs8qRBRz7w)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
