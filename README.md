@@ -44,8 +44,8 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Codemagic CI/CD - Deploy Flutter Apps to PlayStore &amp; AppStore &lpar;Livestream with Martin Jeret&rpar;](https://www.youtube.com/watch?v=YuNJ-dfEJ2o)
 - [Flutter Coding Challenge | Weather App UI &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=FkPWn1AvlKQ)
-- [Flutter Coding Challenge | Weather App UI &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=stRmoMNh9dY)
 - [5 Dart concepts to know before you jump into Flutter](https://www.youtube.com/watch?v=gDCP_xUHUCk)
 - [Build Animated Apps with Rive &amp; Flutter &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=gVQLe84PvS8)
 - [A Realistic Day in the Life of a Software Engineer 🙋‍♂️🙋‍♂️](https://www.youtube.com/watch?v=fdfBFxBWYXg)
