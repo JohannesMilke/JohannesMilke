@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Roadmap 2024 | Become a Flutter Developer! &lpar;step-by-step guide&rpar;](https://www.youtube.com/watch?v=b-AZZlV399Q)
 - [DhiWise - Convert Figma Designs to Flutter Code &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=U7mFhU-zGYc)
 - [Flutter Clean Architecture](https://www.youtube.com/watch?v=x5Sd2L9axiQ)
 - [Codemagic CI/CD - Deploy Flutter Apps to PlayStore &amp; AppStore &lpar;Livestream with Martin Jeret&rpar;](https://www.youtube.com/watch?v=YuNJ-dfEJ2o)
 - [Flutter Coding Challenge | Weather App UI &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=FkPWn1AvlKQ)
-- [5 Dart concepts to know before you jump into Flutter](https://www.youtube.com/watch?v=gDCP_xUHUCk)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
