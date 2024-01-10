@@ -45,10 +45,10 @@
 
 <!-- YOUTUBE:START -->
 - [TOP Flutter Tips &amp; Tricks &lpar;Livestream with Pawan Kumar&rpar;](https://www.youtube.com/watch?v=_63xJApMnvk)
-- [Flutter Roadmap 2024 | Become a Flutter Developer! &lpar;step-by-step guide&rpar;](https://www.youtube.com/watch?v=b-AZZlV399Q)
 - [DhiWise - Convert Figma Designs to Flutter Code &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=U7mFhU-zGYc)
 - [Flutter Clean Architecture](https://www.youtube.com/watch?v=x5Sd2L9axiQ)
 - [Codemagic CI/CD - Deploy Flutter Apps to PlayStore &amp; AppStore &lpar;Livestream with Martin Jeret&rpar;](https://www.youtube.com/watch?v=YuNJ-dfEJ2o)
+- [Flutter Coding Challenge | Weather App UI &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=FkPWn1AvlKQ)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
