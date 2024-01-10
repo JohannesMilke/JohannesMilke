@@ -44,7 +44,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter Tutorial - How to Deploy Flutter App on App Store [2024]](https://www.youtube.com/watch?v=0zgDF81ZLrQ)
+- [Flutter Tutorial - How to Publish Flutter App on App Store [2024] Build, Release &amp; Deploy App](https://www.youtube.com/watch?v=0zgDF81ZLrQ)
 - [TOP Flutter Tips &amp; Tricks &lpar;With Pawan Kumar&rpar;](https://www.youtube.com/watch?v=_63xJApMnvk)
 - [DhiWise - Convert Figma Designs to Flutter Code &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=U7mFhU-zGYc)
 - [Flutter Clean Architecture](https://www.youtube.com/watch?v=x5Sd2L9axiQ)
