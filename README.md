@@ -44,7 +44,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [TOP Flutter Tips &amp; Tricks &lpar;Livestream with Pawan Kumar&rpar;](https://www.youtube.com/watch?v=_63xJApMnvk)
+- [TOP Flutter Tips &amp; Tricks &lpar;With Pawan Kumar&rpar;](https://www.youtube.com/watch?v=_63xJApMnvk)
 - [DhiWise - Convert Figma Designs to Flutter Code &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=U7mFhU-zGYc)
 - [Flutter Clean Architecture](https://www.youtube.com/watch?v=x5Sd2L9axiQ)
 - [Codemagic CI/CD - Deploy Flutter Apps to PlayStore &amp; AppStore &lpar;Livestream with Martin Jeret&rpar;](https://www.youtube.com/watch?v=YuNJ-dfEJ2o)
