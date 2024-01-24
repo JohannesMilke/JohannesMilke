@@ -44,7 +44,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter Roadmap 2024 | Become a Flutter Developer! &lpar;step-by-step guide&rpar;](https://www.youtube.com/watch?v=v0MLQdTFBFE)
+- [Flutter Roadmap 2024 | Become a Flutter Developer! &lpar;step-by-step guide&rpar;](https://www.youtube.com/watch?v=oIzwUPr6Eow)
 - [Flutter Coding Challenge | Real Estate App UI &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=L41RKRXyhyY)
 - [Code Push for Android &amp; iOS | Flutter Shorebird](https://www.youtube.com/watch?v=EIiBDoVHlNc)
 - [Why #Flutter uses Dart?](https://www.youtube.com/watch?v=8STVRP_X0AY)
