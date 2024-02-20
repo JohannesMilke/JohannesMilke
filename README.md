@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter App Development in 12 Weeks](https://www.youtube.com/watch?v=ESY9JyVUBFs)
 - [Programmers inner pain](https://www.youtube.com/watch?v=8a21xE_NDtI)
 - [Build Firebase Web App with Authentication](https://www.youtube.com/watch?v=HmkwOygpaqg)
 - [We Build Amazing Flutter Apps &lpar;Android, iOS and Web&rpar;](https://www.youtube.com/watch?v=4xxyu0wr638)
 - [Hiring a software engineer!](https://www.youtube.com/watch?v=WscRZQnY9zM)
-- [Flutter Riverpod State Management](https://www.youtube.com/watch?v=5lvLwp1XiBg)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
