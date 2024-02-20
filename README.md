@@ -48,7 +48,7 @@
 - [Build Firebase Web App with Authentication](https://www.youtube.com/watch?v=HmkwOygpaqg)
 - [We Build Amazing Flutter Apps &lpar;Android, iOS and Web&rpar;](https://www.youtube.com/watch?v=4xxyu0wr638)
 - [Hiring a software engineer!](https://www.youtube.com/watch?v=WscRZQnY9zM)
-- [DON&#39;T use Flutter Provider? | Flutter Riverpod State Management](https://www.youtube.com/watch?v=5lvLwp1XiBg)
+- [Flutter Riverpod State Management](https://www.youtube.com/watch?v=5lvLwp1XiBg)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
