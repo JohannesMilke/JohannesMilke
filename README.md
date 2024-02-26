@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter In App Purchases &amp; Subscriptions with RevenueCat](https://www.youtube.com/watch?v=6M2IeeVUXXw)
 - [over prepared for interview 😂](https://www.youtube.com/watch?v=tV7pP6v-bAo)
 - [Flutter App Development in 12 Weeks](https://www.youtube.com/watch?v=ESY9JyVUBFs)
 - [Programmers inner pain](https://www.youtube.com/watch?v=8a21xE_NDtI)
 - [Build Firebase Web App with Authentication](https://www.youtube.com/watch?v=HmkwOygpaqg)
-- [We Build Amazing Flutter Apps &lpar;Android, iOS and Web&rpar;](https://www.youtube.com/watch?v=4xxyu0wr638)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
