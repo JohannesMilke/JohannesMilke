@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Normal People Vs Programmer](https://www.youtube.com/watch?v=NfNvhfmqq10)
 - [App Ideas? We Got This](https://www.youtube.com/watch?v=mpI51S6eTqM)
 - [Flutter In App Purchases &amp; Subscriptions with RevenueCat](https://www.youtube.com/watch?v=6M2IeeVUXXw)
 - [over prepared for interview 😂](https://www.youtube.com/watch?v=tV7pP6v-bAo)
 - [Flutter App Development in 12 Weeks](https://www.youtube.com/watch?v=ESY9JyVUBFs)
-- [Programmers inner pain](https://www.youtube.com/watch?v=8a21xE_NDtI)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
