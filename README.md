@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [When client needs multiple revisions 😐🤯](https://www.youtube.com/watch?v=O_syIIzNDmY)
 - [The Future of Flutter &lpar;Job Market, etc.&rpar;](https://www.youtube.com/watch?v=ss-lh-acIfo)
 - [Learn Flutter Development | The Easy Way](https://www.youtube.com/watch?v=URiMVde36tE)
 - [Flutter Coding Challenge | Coffee App UI  &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=yJBNu0jVrNA)
 - [Client Testimonial: Building Dreams into Reality!](https://www.youtube.com/watch?v=7_yDH-y3uiw)
-- [Building a Responsive Dashboard UI App with Flutter | Step-by-Step Tutorial](https://www.youtube.com/watch?v=fVZqxpNdD6c)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
