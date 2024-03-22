@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Masterclass Riverpod for Flutter Apps](https://www.youtube.com/watch?v=P88KXzo_1zg)
 - [Masterclass Firebase for Flutter Apps](https://www.youtube.com/watch?v=sPpalg6dutc)
 - [The Future of programming](https://www.youtube.com/watch?v=iBNGmq1H-_I)
 - [Flutter Google Maps: Markers, Polylines, &amp; Live Location Tracking](https://www.youtube.com/watch?v=4ucWoHtBby0)
 - [When client needs multiple revisions 😐🤯](https://www.youtube.com/watch?v=O_syIIzNDmY)
-- [The Future of Flutter &lpar;Job Market, etc.&rpar;](https://www.youtube.com/watch?v=ss-lh-acIfo)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
