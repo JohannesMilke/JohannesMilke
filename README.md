@@ -44,9 +44,9 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Masterclass Game Development for Flutter Apps](https://www.youtube.com/watch?v=El94WW5WbIY)
 - [Masterclass Riverpod for Flutter Apps](https://www.youtube.com/watch?v=P88KXzo_1zg)
 - [Masterclass Firebase for Flutter Apps](https://www.youtube.com/watch?v=sPpalg6dutc)
+- [Masterclass Game Development for Flutter Apps](https://www.youtube.com/watch?v=El94WW5WbIY)
 - [The Future of programming](https://www.youtube.com/watch?v=iBNGmq1H-_I)
 - [Flutter Google Maps: Markers, Polylines, &amp; Live Location Tracking](https://www.youtube.com/watch?v=4ucWoHtBby0)
 <!-- YOUTUBE:END -->
