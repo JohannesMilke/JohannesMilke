@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Top 5 Flutter Widgets - You Can&#39;t Miss!](https://www.youtube.com/watch?v=apiq353aDn8)
 - [When clients ask for weird features 😁😂](https://www.youtube.com/watch?v=3vWlqD9JzZg)
 - [Masterclass Game Development for Flutter Apps](https://www.youtube.com/watch?v=El94WW5WbIY)
 - [Masterclass Riverpod for Flutter Apps](https://www.youtube.com/watch?v=P88KXzo_1zg)
 - [Masterclass Firebase for Flutter Apps](https://www.youtube.com/watch?v=sPpalg6dutc)
-- [The Future of programming](https://www.youtube.com/watch?v=iBNGmq1H-_I)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
