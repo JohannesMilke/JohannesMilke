@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [When a project is completed](https://www.youtube.com/watch?v=W17vUKAG_M4)
 - [Flutter Tutorial - SQL Database Storage Using Sqflite Package | Android &amp; iOS](https://www.youtube.com/watch?v=bihC6ou8FqQ)
 - [Top 5 Flutter Widgets - You Can&#39;t Miss!](https://www.youtube.com/watch?v=apiq353aDn8)
 - [When clients ask for weird features 😁😂](https://www.youtube.com/watch?v=3vWlqD9JzZg)
 - [Masterclass Game Development for Flutter Apps](https://www.youtube.com/watch?v=El94WW5WbIY)
-- [Masterclass Riverpod for Flutter Apps](https://www.youtube.com/watch?v=P88KXzo_1zg)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
