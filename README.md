@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Version Management](https://www.youtube.com/watch?v=4Rss2uli0PQ)
 - [Expectations Vs Reality !](https://www.youtube.com/watch?v=FmaERe0P4Z4)
 - [When a project is completed](https://www.youtube.com/watch?v=W17vUKAG_M4)
 - [Flutter Tutorial - SQL Database Storage Using Sqflite Package | Android &amp; iOS](https://www.youtube.com/watch?v=bihC6ou8FqQ)
 - [Top 5 Flutter Widgets - You Can&#39;t Miss!](https://www.youtube.com/watch?v=apiq353aDn8)
-- [When clients ask for weird features 😁😂](https://www.youtube.com/watch?v=3vWlqD9JzZg)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
