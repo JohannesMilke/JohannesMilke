@@ -45,7 +45,7 @@
 
 <!-- YOUTUBE:START -->
 - [Ever thought why We fail as Flutter Developer?](https://www.youtube.com/watch?v=WkA31-vvCGA)
-- [Let&#39;s Build a Video Calling App in Flutter with Zego Cloud - Full Tutorial!](https://www.youtube.com/watch?v=7I3VAWGvOEw)
+- [How to Build Zoom Video Calling App in Flutter | ZegoCloud &lpar;Full Tutorial&rpar;](https://www.youtube.com/watch?v=7I3VAWGvOEw)
 - [Software Engineer gets an Urgent Request 😡😭](https://www.youtube.com/watch?v=grH1CRa7-Lg)
 - [Want to learn FLUTTER ?](https://www.youtube.com/watch?v=6X4LpMS9Np8)
 - [Accepting Payments in Flutter Using Stripe | The Right Way](https://www.youtube.com/watch?v=ODt1ORP0SpM)
