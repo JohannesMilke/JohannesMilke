@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Create Instagram-Style Camera Filters in Flutter: Easy AR Guide](https://www.youtube.com/watch?v=xUU7GCrmcZw)
 - [OneSignal Notifications in Flutter Made Easy | Step-by-Step Tutorial](https://www.youtube.com/watch?v=v2BzkbCC8CM)
 - [Ever thought why We fail as Flutter Developer?](https://www.youtube.com/watch?v=WkA31-vvCGA)
 - [How to Build Zoom Video Calling App in Flutter | ZegoCloud &lpar;Full Tutorial&rpar;](https://www.youtube.com/watch?v=7I3VAWGvOEw)
 - [Software Engineer gets an Urgent Request 😡😭](https://www.youtube.com/watch?v=grH1CRa7-Lg)
-- [Want to learn FLUTTER ?](https://www.youtube.com/watch?v=6X4LpMS9Np8)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
