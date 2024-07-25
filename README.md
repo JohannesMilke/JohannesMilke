@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Expense Tracker App • Flutter &amp; BLoC Tutorial for Beginners](https://www.youtube.com/watch?v=KdZAhq93Ih8)
 - [Cross-Platform vs Native: What&#39;s Best for Your App in 2024?](https://www.youtube.com/watch?v=uMcmLuk1oBI)
 - [Create Instagram-Style Camera Filters in Flutter: Easy AR Guide](https://www.youtube.com/watch?v=xUU7GCrmcZw)
 - [OneSignal Notifications in Flutter Made Easy | Step-by-Step Tutorial](https://www.youtube.com/watch?v=v2BzkbCC8CM)
 - [Ever thought why We fail as Flutter Developer?](https://www.youtube.com/watch?v=WkA31-vvCGA)
-- [How to Build Zoom Video Calling App in Flutter | ZegoCloud &lpar;Full Tutorial&rpar;](https://www.youtube.com/watch?v=7I3VAWGvOEw)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
