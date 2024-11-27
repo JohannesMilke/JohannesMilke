@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Write Clean Flutter Code - Methods and Functions](https://www.youtube.com/watch?v=npn4U0LcmGo)
 - [Write Clean Flutter Code - Getters](https://www.youtube.com/watch?v=zBbpoh3vQAg)
 - [Serverpod - Build a Flutter Backend](https://www.youtube.com/watch?v=zZCqpm4ZNbQ)
 - [Write Clean Flutter Code - Consistent Names](https://www.youtube.com/watch?v=c62x5LhzSH4)
 - [Write Clean Flutter Code - Short Names](https://www.youtube.com/watch?v=-s-oPwCjLD8)
-- [Write Clean Flutter Code - Effective Naming](https://www.youtube.com/watch?v=HYhnEQ-JKoI)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
