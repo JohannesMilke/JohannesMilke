@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🚀](https://www.youtube.com/watch?v=fG26yFnMqBs)
 - [Responsive Design in Flutter: A Complete Course](https://www.youtube.com/watch?v=mG6iSD49-OY)
 - [Write Clean Flutter Code - Future Return Type](https://www.youtube.com/watch?v=eRIP_Q-c0wE)
 - [Write Clean Flutter Code - Return Type](https://www.youtube.com/watch?v=lCs3WrlkypM)
 - [Write Clean Flutter Code - Methods and Functions](https://www.youtube.com/watch?v=npn4U0LcmGo)
-- [Write Clean Flutter Code - Getters](https://www.youtube.com/watch?v=zBbpoh3vQAg)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
