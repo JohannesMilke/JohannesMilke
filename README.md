@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🚀 Ready to Master Flutter in 2025?](https://www.youtube.com/watch?v=rgFpKzO5iic)
 - [Write Clean Flutter Code - Local Variables](https://www.youtube.com/watch?v=A6dh5vaRbRo)
 - [🚀 Transform Your Idea into Reality!](https://www.youtube.com/watch?v=WqQ1F-lKDpM)
 - [Is Serverpod better than Firebase?](https://www.youtube.com/watch?v=R1542BOnum8)
 - [Write Clean Flutter Code - Variables](https://www.youtube.com/watch?v=6uRSda_v8Og)
-- [Write Clean Flutter Code - Parameters](https://www.youtube.com/watch?v=OCnY0P5wfQA)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
