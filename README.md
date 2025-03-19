@@ -44,11 +44,11 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Write Clean Flutter Code - Sentence Like Naming](https://www.youtube.com/watch?v=VmjHIyc1pSk)
 - [Write Clean Flutter Code - Abbreviations](https://www.youtube.com/watch?v=XtqIV5ZK9IE)
 - [Write Clean Flutter Code - Callbacks](https://www.youtube.com/watch?v=1hHZ1D6FXsY)
 - [Write Clean Flutter Code - Anonymous Functions](https://www.youtube.com/watch?v=mPI_8gkxz8s)
 - [Write Clean Flutter Code - Booleans](https://www.youtube.com/watch?v=OknDDZpG3tg)
-- [Write Clean Flutter Code - Generic Types](https://www.youtube.com/watch?v=a1IjqtMAXcg)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
